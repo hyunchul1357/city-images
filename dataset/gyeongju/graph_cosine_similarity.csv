@@ -1,0 +1,1253 @@
+Source,Target,Weight
+Village,Yangdong,0.981926024
+Order,Grilled Short Rib Patties,0.944027305
+Cafe,Price,0.939796686
+Autumn,Maple,0.938057303
+Night view,Leaf Wraps and Rice,0.936120987
+Order,Menu,0.935484231
+Cafe,Coffee,0.923219442
+Bomun complex,Complex,0.916397929
+Popular restaurant,Korean beef,0.913208604
+Cafe,Menu,0.912716389
+Hanok,Story,0.910740256
+Menu,Grilled Short Rib Patties,0.907892883
+Daereungwon,Cheonmachong,0.904893577
+Silla,Era,0.899958968
+Menu,Side dish,0.89722234
+Bulguksa temple,Maple,0.895354748
+Hanok,Experience,0.894471645
+Gyeongju,Travel,0.88943547
+Order,Side dish,0.889191628
+Cafe,Grilled Short Rib Patties,0.885843992
+Grilled Short Rib Patties,Mom,0.885625899
+Bulgogi,Mom,0.883200586
+Museum,Leaf Wraps and Rice,0.881237149
+Arrival,Departure,0.880109906
+Menu,Price,0.879705429
+Silla,History,0.879696846
+Appearance,Tree,0.87934345
+Photo,Sound,0.878094435
+Popular restaurant,Recommendation,0.875831664
+Tree,Sound,0.875001311
+Bus,One day,0.872884274
+Village,Era,0.871263087
+Cheomseongdae,Museum,0.870523512
+Popular restaurant,Grilled Short Rib Patties,0.87023145
+Order,Korean Table d'hote,0.868936002
+Bulgogi,Meal,0.868493736
+Grilled Short Rib Patties,Side dish,0.867543519
+Silla,Culture,0.867010176
+Anapji,Lotus,0.865476429
+Side dish,Branch,0.863900065
+Order,Mom,0.863569796
+Side dish,Mom,0.862142205
+Menu,Mom,0.861895204
+Popular restaurant,Cafe,0.861594558
+Menu,Coffee,0.860109627
+Cherry blossom,Sightseeing,0.859263003
+Leaf Wraps and Rice,Departure,0.858902693
+Friend,Space,0.857480943
+Gyeongju,Popular restaurant,0.85649848
+Grilled Short Rib Patties,Price,0.855278134
+Complex,Accomodation,0.855261981
+Coffee,Price,0.854978859
+Cheomseongdae,Entrance fee,0.853786051
+Cafe,Mood,0.853773534
+Anapji,Night view,0.853177786
+Mood,Mom,0.851400495
+Complex,Street,0.851234853
+Cafe,Mom,0.851026952
+Meal,Dinner,0.850457907
+Era,Yangdong,0.849995375
+Bomun complex,Korean beef,0.849303961
+Bulgogi,Side dish,0.849087119
+Grilled Short Rib Patties,Korean Table d'hote,0.848297298
+Side dish,Korean Table d'hote,0.848129272
+Travel,Popular restaurant,0.848104954
+Bus,Complex,0.847785711
+Bulgogi,Ready,0.846940875
+Korean Table d'hote,Mom,0.846152723
+Menu,Korean Table d'hote,0.845045388
+Leaf Wraps and Rice,Lunch,0.844413221
+Travel,Departure,0.844015121
+Recommendation,Korean beef,0.843366563
+Popular restaurant,Restaurant,0.843343198
+Story,One day,0.842781842
+Culture,History,0.841885149
+Food,Side dish,0.839011908
+Hanok,Sky,0.837067485
+Pension,Hanok,0.836874604
+Cheomseongdae,Leaf Wraps and Rice,0.835711122
+Restaurant,Korean beef,0.834425509
+Grilled Short Rib Patties,Recommendation,0.833546698
+Arrival,Leaf Wraps and Rice,0.832597136
+Bus,Accomodation,0.832393885
+Friend,Wind,0.83236891
+Complex,Walk,0.831847787
+Utilization,Possibility,0.831337094
+Cafe,Mood,0.830462098
+History,Era,0.829531014
+Time,Leaf Wraps and Rice,0.827531755
+Bomun complex,Leaf Wraps and Rice,0.82729423
+Travel,Street,0.827276468
+Bulguksa temple,Autumn,0.825992942
+Pension,One day,0.825974882
+Restaurant,Recommendation,0.825436234
+Meal,Mood,0.825423598
+Side dish,Price,0.825340092
+Time,One day,0.824994743
+Cafe,Side dish,0.823502541
+Restaurant,Grilled Short Rib Patties,0.823041975
+Travel,Korean beef,0.822659135
+Pension,Story,0.822269499
+Departure,Street,0.819238782
+Thinking,Memory,0.818716288
+Complex,Leaf Wraps and Rice,0.818711519
+Cheonmachong,Downtown,0.818427622
+Accomodation,Leaf Wraps and Rice,0.81815809
+Cafe,Order,0.817630172
+Photo,Maple,0.817505419
+Scenery,Walk,0.817356348
+Menu,Lunch,0.817337036
+Space,Possibility,0.816900194
+Museum,Night view,0.815819442
+Cafe,Korean beef,0.81570524
+Cafe,Recommendation,0.814989328
+Course,Complex,0.814665675
+Culture,Era,0.814532578
+Mood,Street,0.813429952
+Travel,Leaf Wraps and Rice,0.813225567
+Bulgogi,Grilled Short Rib Patties,0.813102007
+Menu,Meal,0.812714279
+Night view,Lunch,0.812331855
+Hanok,One day,0.81208986
+Bulgogi,Order,0.811830223
+Museum,Cheonmachong,0.81178987
+Meal,Mom,0.811620653
+Recommendation,Korean Table d'hote,0.811483443
+Coffee,Mood,0.810948014
+Cafe,Meal,0.810407579
+Cafe,Restaurant,0.810115218
+Pension,Sky,0.810025632
+Bulgogi,Menu,0.809966624
+Arrival,Weather,0.809895754
+Cheomseongdae,Walk,0.808986127
+Anapji,Cheomseongdae,0.808609128
+Grilled Short Rib Patties,Korean beef,0.808474004
+Photo,Appearance,0.808468342
+Morning,Weather,0.807629943
+Time,Street,0.807556927
+Daereungwon,Bicycle,0.807453752
+Wind,Space,0.807399809
+Soft tofu,Side dish,0.807384193
+Mood,Price,0.806776404
+Coffee,Mood,0.806772649
+Sightseeing,Complex,0.806735396
+Time,Arrival,0.806438863
+Food,Grilled Short Rib Patties,0.806301355
+Food,Price,0.806278169
+Bulgogi,Korean Table d'hote,0.806201398
+Tree,Wind,0.806003392
+Recommendation,Mom,0.805487752
+Wind,Sound,0.805210114
+Tree,Walk,0.805051625
+Restaurant,Meal,0.804882169
+Time,Departure,0.804876864
+Grilled Short Rib Patties,Meal,0.804275215
+Bus,Story,0.803722858
+Order,Price,0.803405285
+Bulgogi,Dinner,0.802993834
+Museum,History,0.802416742
+Popular restaurant,Menu,0.801928103
+Restaurant,Food,0.8017959
+Sightseeing,Street,0.801794648
+Morning,Scenery,0.801612616
+Bomun complex,Accomodation,0.80152452
+Visit,Mom,0.801184058
+Photo,Tree,0.798254251
+Village,Experience,0.797343016
+Mood,Visit,0.795924544
+Leaf Wraps and Rice,Street,0.795872629
+Korean beef,Street,0.795649707
+Menu,Mood,0.795514464
+Popular restaurant,Price,0.794064164
+Arrival,Street,0.793929577
+Anapji,Leaf Wraps and Rice,0.793710172
+Popular restaurant,Coffee,0.793169379
+Popular restaurant,Order,0.792435884
+Mind,Mood,0.792348146
+Site,Sound,0.791959822
+Cheomseongdae,Night view,0.79174763
+Experience,Yangdong,0.791674674
+Story,Experience,0.790772974
+Museum,Complex,0.790729344
+Meal,Ready,0.790431321
+Korean Table d'hote,Branch,0.790286303
+Bomun complex,Bus,0.788833499
+Arrival,Lunch,0.788542688
+Cheomseongdae,Daereungwon,0.788331211
+Location,Downtown,0.787882566
+Silla,Experience,0.786777139
+Ready,Sound,0.786756635
+Scenery,Mood,0.786361516
+Anapji,Museum,0.785533607
+Morning,Mood,0.785007417
+Village,Location,0.784634888
+Mood,Mood,0.784477711
+Cafe,Food,0.78444767
+Cherry blossom,Street,0.784230173
+Gyeongju,Korean beef,0.784229398
+Scenery,Weather,0.783741534
+Order,Meal,0.783638656
+Ready,Possibility,0.783260703
+Leaf Wraps and Rice,Mom,0.783185899
+Era,Experience,0.782680154
+Restaurant,Mom,0.782476544
+Downtown,Street,0.782153487
+Experience,One day,0.782055974
+Mind,Entrance,0.781097949
+Arrival,Accomodation,0.781001389
+Time,Lunch,0.780406475
+Appearance,Sound,0.779834747
+Popular restaurant,Mom,0.779780388
+Mood,Mom,0.779606164
+Soft tofu,Korean Table d'hote,0.779494882
+Time,Accomodation,0.779488027
+Museum,Course,0.779340327
+Pension,Korean beef,0.779023886
+Meal,Side dish,0.778620958
+Soft tofu,Branch,0.778558552
+Weather,Hanok,0.778158188
+Morning,Sound,0.778154552
+Weather,Dinner,0.777861595
+Location,Yangdong,0.777805924
+Side dish,Mood,0.777782798
+Meal,Coffee,0.777674258
+Bomun complex,Street,0.777559638
+Soft tofu,Mom,0.777529418
+Mind,Walk,0.777422249
+Morning,Site,0.776955545
+Accomodation,One day,0.77693975
+Ready,Mom,0.776784182
+Time,Bus,0.77634424
+Dinner,Leaf Wraps and Rice,0.775649846
+Cheomseongdae,Complex,0.7753672
+Pension,Bus,0.77511996
+Photo,Bulguksa temple,0.774942756
+Photo,Thinking,0.774239361
+Sky,One day,0.774173975
+Grilled Short Rib Patties,Coffee,0.774011195
+Time,Start,0.773981571
+Ready,Story,0.773960471
+Sightseeing,Walk,0.773265719
+Travel,Arrival,0.772953987
+Cherry blossom,Complex,0.772834539
+Grilled Short Rib Patties,Mood,0.772749603
+Bulgogi,Visit,0.772738576
+Order,Branch,0.772256911
+Accomodation,Street,0.77200371
+Bomun complex,Cherry blossom,0.771975398
+Famous,Mom,0.77175653
+Popular restaurant,Food,0.77133745
+Soft tofu,Visit,0.770688474
+Cheomseongdae,Cheonmachong,0.770591676
+Menu,Mood,0.770280004
+Mom,Lunch,0.769978642
+Cheonmachong,Complex,0.769812405
+Coffee,Korean beef,0.769278347
+Mom,Sound,0.76916194
+Photo,Mom,0.768895745
+Daereungwon,Entrance fee,0.768461347
+Soft tofu,Leaf Wraps and Rice,0.768371105
+Mind,Weather,0.767715931
+Grilled Short Rib Patties,Branch,0.767391562
+Bomun complex,Sightseeing,0.767038822
+Time,Complex,0.766183913
+Complex,Departure,0.765346766
+Museum,Culture,0.765320599
+Location,Korean beef,0.765023887
+Weather,Mood,0.764838576
+Bulguksa temple,Thinking,0.764833391
+Korean beef,Lunch,0.764832318
+Bus,Street,0.764799237
+Mom,Branch,0.764742076
+Story,Sound,0.764603198
+Meal,Mood,0.764549017
+Hanok,Ready,0.764534652
+Order,Mood,0.764406204
+Menu,Recommendation,0.764087677
+Entrance,Space,0.763897061
+Wind,Story,0.763466358
+Complex,One day,0.76324904
+Bus,Departure,0.763183117
+Scenery,Sound,0.763128459
+Friend,Tree,0.76260221
+Downtown,Complex,0.762188733
+Cafe,Street,0.762170792
+Restaurant,Menu,0.761961699
+Street,Entrance fee,0.76192677
+Morning,Mind,0.761818707
+Museum,Namsan mountain,0.761731029
+Weather,Leaf Wraps and Rice,0.761254847
+Wind,Possibility,0.761162341
+Thinking,Leaf Wraps and Rice,0.76116091
+Menu,Korean beef,0.760786593
+Coffee,Mom,0.760523438
+Korean beef,Leaf Wraps and Rice,0.760519445
+Sky,Story,0.760106146
+Appearance,Walk,0.75987488
+Price,Mom,0.75954932
+Korean beef,Mom,0.759376109
+Dinner,Lunch,0.759342551
+Pension,Street,0.759212315
+Bomun complex,Walk,0.758929968
+Culture,Experience,0.758719802
+Bus,Utilization,0.757721305
+Time,Thinking,0.757247865
+Cherry blossom,Walk,0.757003129
+Cherry blossom,Tree,0.756550193
+Leaf Wraps and Rice,Entrance fee,0.756514728
+Complex,Entrance fee,0.756128132
+Era,Walk,0.755695164
+Museum,Departure,0.755555272
+Bicycle,Departure,0.755519509
+Walk,Entrance fee,0.755436718
+Meal,Experience,0.755372643
+Travel,Cafe,0.755245507
+Name,Mood,0.755241752
+Appearance,Entrance fee,0.75504458
+Weather,Walk,0.755019903
+Visit,Leaf Wraps and Rice,0.75496161
+Recommendation,Price,0.754928589
+Leaf Wraps and Rice,Walk,0.754821301
+Bomun complex,Course,0.75477469
+Cafe,Lunch,0.754670024
+Coffee,Recommendation,0.754487336
+Mind,Scenery,0.754278183
+Yangdong,Walk,0.754094779
+Accomodation,Walk,0.7530213
+Bulguksa temple,Mind,0.752429247
+Bulgogi,Soft tofu,0.752191961
+Grilled Short Rib Patties,Leaf Wraps and Rice,0.751195848
+Course,Bus,0.751007915
+Bomun complex,Museum,0.750881255
+Korean Table d'hote,Visit,0.750787377
+Restaurant,Coffee,0.750599742
+Soft tofu,Order,0.750392616
+Site,Mood,0.750054359
+Cheonmachong,Korean beef,0.750030577
+Order,Lunch,0.75001955
+Restaurant,Order,0.750017226
+Mood,Sound,0.749930203
+Thinking,Maple,0.749823213
+Start,Story,0.749595284
+Photo,Autumn,0.749554217
+Night view,Dinner,0.749361753
+Cheonmachong,Leaf Wraps and Rice,0.748985946
+Side dish,Coffee,0.748761237
+Restaurant,Price,0.748308778
+Course,Accomodation,0.748235941
+Grilled Short Rib Patties,Lunch,0.748183787
+Time,Night view,0.747977257
+Street,One day,0.747812569
+Bulgogi,Branch,0.747735202
+Course,Leaf Wraps and Rice,0.747705102
+Korean beef,Complex,0.747564614
+Popular restaurant,Lunch,0.747551799
+Mood,Walk,0.74706167
+Weather,Accomodation,0.746744931
+Sightseeing,Leaf Wraps and Rice,0.746692479
+Meal,Visit,0.746686161
+Soft tofu,Grilled Short Rib Patties,0.74667275
+Cheonmachong,Location,0.746623456
+Site,Meal,0.746421635
+Meal,Korean Table d'hote,0.746049345
+Museum,Daereungwon,0.74592036
+Cafe,Korean Table d'hote,0.745893359
+Arrival,Night view,0.745616913
+Building,World,0.745530784
+History,Leaf Wraps and Rice,0.745387852
+Korean Table d'hote,Price,0.745209277
+Cafe,Utilization,0.745064795
+Food,Menu,0.744885147
+Weather,Street,0.744307339
+Restaurant,Bulgogi,0.744295418
+Cherry blossom,Wind,0.744213164
+Bulguksa temple,Entrance,0.744097829
+Downtown,Accomodation,0.743389249
+Weather,Entrance fee,0.742983818
+Cafe,Leaf Wraps and Rice,0.74289906
+Cheomseongdae,History,0.742815375
+Site,Scenery,0.742647111
+Travel,Family,0.742559731
+Grilled Short Rib Patties,Ready,0.742225707
+Weather,Entrance,0.742158175
+Famous,Visit,0.742065251
+Meal,Hanok,0.741835177
+Thinking,Famous,0.741682053
+Bulgogi,Mood,0.741669714
+Travel,Weather,0.741614878
+Bus,Leaf Wraps and Rice,0.741387248
+Pension,Mom,0.741260409
+Daereungwon,Leaf Wraps and Rice,0.74097544
+Location,Parking lot,0.740504861
+Hanok,Mood,0.740359962
+Site,Weather,0.74013257
+Bomun complex,Cheonmachong,0.73977232
+Meal,Lunch,0.73963654
+Mood,Sound,0.739556849
+Bomun complex,Departure,0.739346862
+Bus,Yangdong,0.739271522
+Thinking,Food,0.739120483
+Space,Sound,0.739117622
+Price,Utilization,0.739063561
+Thinking,Mind,0.738891542
+Mood,Ready,0.73862946
+Mind,Space,0.738601863
+Side dish,Recommendation,0.738572896
+Bus,Experience,0.73852843
+Weather,Sound,0.738525152
+Daereungwon,Walk,0.738029182
+Downtown,Korean beef,0.737309575
+Thinking,Departure,0.73691076
+Grilled Short Rib Patties,Space,0.73665297
+Night view,Visit,0.736127436
+Menu,Branch,0.736122847
+Mind,Start,0.736118019
+Cafe,Arrival,0.735855997
+Popular restaurant,Street,0.735757351
+Bus,Korean beef,0.735741854
+Friend,Beach,0.735673189
+Thinking,Mood,0.735651731
+Time,Weather,0.735093474
+Grilled Short Rib Patties,Mood,0.735015988
+Weather,Wind,0.734970212
+Village,Mind,0.734945893
+Weather,One day,0.734311938
+Food,Order,0.733944118
+Gyeongju,Departure,0.733781576
+Memory,Walk,0.733540833
+Cafe,Bulgogi,0.73349309
+Order,Coffee,0.733408749
+People,Mind,0.733382583
+Bulguksa temple,Time,0.73325479
+Departure,One day,0.73302114
+Time,Entrance fee,0.732840538
+Bomun complex,Night view,0.732821405
+Cheomseongdae,Sightseeing,0.732549369
+Mind,Street,0.732411504
+Family,Space,0.731933832
+Beach,Space,0.731922507
+Night view,Weather,0.731756747
+Mind,Sound,0.731652558
+Mood,Story,0.731429756
+Side dish,Visit,0.731049478
+Travel,Sightseeing,0.731016695
+Site,Mood,0.730781376
+Photo,Entrance,0.730765164
+Utilization,Space,0.730462134
+Tree,Entrance fee,0.730193496
+Bulgogi,Hanok,0.729647219
+Cherry blossom,Name,0.729643703
+Departure,Lunch,0.729275346
+Weather,Meal,0.729151785
+Cafe,Departure,0.729076207
+Grilled Short Rib Patties,Possibility,0.729054749
+Night view,Departure,0.728900373
+Cafe,Start,0.728736341
+Menu,Ready,0.72873348
+Travel,Bomun complex,0.728648782
+Mom,Street,0.728446186
+Time,Course,0.728419721
+Daereungwon,Downtown,0.728025079
+Museum,Walk,0.727910995
+People,Cafe,0.727866292
+Time,Mom,0.727725685
+Travel,Recommendation,0.727697492
+Restaurant,Side dish,0.727398157
+Cheonmachong,Accomodation,0.727263331
+Time,Cafe,0.727195382
+Restaurant,Korean Table d'hote,0.727167368
+Utilization,Departure,0.72639066
+Mind,Memory,0.726276278
+Thinking,Arrival,0.726118326
+Night view,Scenery,0.726093829
+Cafe,Downtown,0.725892842
+Site,Mom,0.725764096
+Thinking,Scenery,0.7256791
+Menu,Utilization,0.725626171
+Pension,Accomodation,0.725615025
+Weather,Mom,0.725596726
+Accomodation,Story,0.725320876
+Price,Korean beef,0.725307405
+Popular restaurant,Parking lot,0.725228071
+Village,History,0.725111604
+Dinner,Experience,0.724653661
+Thinking,Start,0.724442422
+Anapji,Entrance fee,0.724340022
+Thinking,Street,0.724321783
+Order,Recommendation,0.724244654
+Culture,Yangdong,0.724017382
+Weather,Story,0.723964632
+Tree,Space,0.723952055
+Cheomseongdae,Accomodation,0.723897994
+Sightseeing,Tree,0.723858118
+Korean beef,Departure,0.723745227
+Street,Walk,0.723374069
+Coffee,Street,0.72331816
+Soft tofu,Night view,0.723022401
+Photo,Mind,0.722986817
+Thinking,Visit,0.722794831
+Village,Walk,0.722777069
+Time,Mind,0.722694755
+Memory,Entrance fee,0.72269088
+Name,Mom,0.722532868
+Hotel,Utilization,0.722474456
+Hanok,Mood,0.722441018
+Photo,Scenery,0.722107291
+Beach,Wind,0.721965551
+Travel,Thinking,0.721242905
+Accomodation,Entrance fee,0.720812857
+Popular restaurant,Leaf Wraps and Rice,0.720637858
+Museum,Accomodation,0.720416009
+Coffee,Downtown,0.720398068
+Anapji,Complex,0.72014761
+Possibility,Sound,0.720083952
+Travel,Grilled Short Rib Patties,0.719837487
+Hanok,Mom,0.719647884
+Food,Mom,0.71959722
+Museum,Lunch,0.719575822
+Scenery,Tree,0.719568729
+Mind,Yangdong,0.719563782
+Arrival,Mood,0.719517708
+Night view,Complex,0.719426692
+Sightseeing,Departure,0.71892345
+Gyeongju,Recommendation,0.718831599
+Family,Weather,0.718748629
+Thinking,Cafe,0.718616128
+Popular restaurant,Side dish,0.718614221
+Popular restaurant,Famous,0.718376696
+Time,Story,0.718350649
+Food,Recommendation,0.718128383
+Thinking,Autumn,0.718011498
+Gyeongju,Cafe,0.717826664
+Appearance,Morning,0.717317343
+Recommendation,Mood,0.717116475
+Accomodation,Visit,0.716601491
+Photo,Start,0.716545582
+Cafe,Ready,0.71651113
+Space,Departure,0.716262877
+Recommendation,Street,0.716255367
+Travel,Mood,0.716195583
+Pension,Experience,0.716097713
+Side dish,Mood,0.716070831
+Arrival,Morning,0.716066837
+Lunch,Street,0.716049433
+Food,Korean beef,0.716000259
+Bulguksa temple,History,0.715229928
+Weather,Visit,0.715132058
+Order,Ready,0.71505481
+Restaurant,Mood,0.714842975
+Cafe,Name,0.714754999
+Menu,Leaf Wraps and Rice,0.714754999
+Cheomseongdae,Era,0.714696765
+Morning,Walk,0.714677691
+Bulgogi,Mood,0.714540482
+Price,Mood,0.714490235
+Menu,Possibility,0.714032829
+Grilled Short Rib Patties,Cheonmachong,0.713887274
+Morning,Entrance,0.713664949
+Bomun complex,Cheomseongdae,0.713649631
+Grilled Short Rib Patties,Name,0.71357125
+Cherry blossom,Leaf Wraps and Rice,0.713397503
+Photo,Famous,0.713223934
+Thinking,Mom,0.713198781
+Appearance,Mom,0.712902248
+Scenery,Leaf Wraps and Rice,0.712897658
+Mind,Maple,0.712670565
+Accomodation,Departure,0.712660253
+History,Walk,0.712563574
+Cafe,Parking lot,0.712505519
+Seokguram,Entrance fee,0.7124089
+Bulgogi,Lunch,0.711801231
+Hanok,Sound,0.71178633
+Weather,Memory,0.711606503
+Popular restaurant,Location,0.71130091
+Recommendation,Leaf Wraps and Rice,0.710709274
+Night view,Accomodation,0.710613787
+Story,Mom,0.710589826
+Daereungwon,Memory,0.71038729
+Name,Building,0.710312366
+Thinking,Walk,0.710235775
+Meal,Korean beef,0.710068047
+Weather,History,0.710050285
+Night view,Mom,0.710036814
+Pension,Weather,0.709789038
+Bus,Hanok,0.709730923
+Sightseeing,Entrance fee,0.709713638
+Visit,Lunch,0.709551394
+Photo,Mood,0.709263623
+Gyeongju,Street,0.709237516
+Appearance,Sightseeing,0.709074795
+Bulgogi,Sound,0.709066987
+Cafe,Sightseeing,0.709014952
+Wind,Walk,0.708886266
+Popular restaurant,Mood,0.708734989
+Seokguram,Entrance,0.708670676
+Thinking,Weather,0.708615005
+Downtown,Parking lot,0.708441257
+Travel,Mind,0.708416402
+Museum,Bicycle,0.70838511
+Food,Meal,0.708265066
+Popular restaurant,Korean Table d'hote,0.708114743
+Soft tofu,Menu,0.708034456
+Story,Possibility,0.708031356
+Mind,Site,0.707619786
+Sightseeing,Mood,0.707269013
+Mind,Departure,0.707100391
+Pension,Mood,0.707041383
+History,Visit,0.707005918
+Mind,History,0.706930161
+Cheomseongdae,Street,0.706894219
+Night view,Famous,0.706712902
+Entrance,Parking lot,0.706185818
+Autumn,Family,0.705941677
+Culture,World,0.705911636
+Friend,Mind,0.705896914
+Sightseeing,Recommendation,0.70566088
+Course,Departure,0.705356598
+Travel,Time,0.70534879
+Mood,Leaf Wraps and Rice,0.705297351
+Soft tofu,Recommendation,0.705278397
+Cafe,Cheonmachong,0.705190778
+Silla,Museum,0.705037355
+Side dish,Ready,0.705030799
+Travel,Autumn,0.70498234
+Building,Mom,0.704894483
+Complex,Wind,0.704874516
+Gyeongju,Grilled Short Rib Patties,0.704463363
+History,Complex,0.704258263
+Popular restaurant,Mood,0.704253316
+Time,Mood,0.703912616
+Popular restaurant,Meal,0.703859508
+Dinner,Hanok,0.70377326
+Korean beef,Accomodation,0.703757584
+Popular restaurant,Departure,0.703485906
+Sightseeing,Downtown,0.703170598
+Cafe,Possibility,0.703169703
+Mind,Story,0.702811062
+Parking lot,Mom,0.70270294
+Family,Wind,0.702681005
+Bicycle,Leaf Wraps and Rice,0.70264262
+Dinner,Ready,0.702559292
+Weather,Departure,0.702340603
+Anapji,History,0.702136576
+Travel,One day,0.701867163
+Friend,Memory,0.701854408
+Tree,Memory,0.701635838
+Village,Culture,0.701631546
+Travel,Complex,0.701581597
+Arrival,Utilization,0.701520503
+Cafe,Famous,0.701505363
+Order,Korean beef,0.701372862
+Photo,Weather,0.701347291
+Dinner,Visit,0.701081932
+Site,Hanok,0.701050758
+Popular restaurant,Soft tofu,0.700999737
+History,Yangdong,0.700840116
+People,Space,0.700832725
+Start,One day,0.700829506
+Bulgogi,Recommendation,0.700608373
+Leaf Wraps and Rice,One day,0.700488627
+Silla,Village,0.700192869
+Accomodation,Mood,0.700191438
+Recommendation,Lunch,0.700173318
+Bulguksa temple,Memory,0.700079679
+Museum,Bus,0.699781656
+Korean Table d'hote,Mood,0.699535608
+Yangdong,One day,0.699402273
+Daereungwon,Complex,0.699341238
+Bulguksa temple,Entrance fee,0.699182272
+Mind,Tree,0.699120402
+Night view,Street,0.699113667
+Location,Era,0.69889015
+Entrance,Complex,0.698797941
+Village,Bus,0.698722184
+Silla,Visit,0.698219717
+Appearance,Famous,0.697944105
+Walk,Sound,0.697809756
+Bus,Cheonmachong,0.697617531
+Anapji,Street,0.697605133
+Cheomseongdae,Visit,0.697561502
+Pension,Complex,0.697322309
+Time,Museum,0.697210312
+Travel,Lunch,0.697112799
+Entrance,Tree,0.696955144
+Korean Table d'hote,Mood,0.696652949
+Photo,Morning,0.696502984
+Weather,Experience,0.696500421
+Hanok,Accomodation,0.696391821
+Cafe,Daereungwon,0.696359575
+Course,Culture,0.69635272
+Bus,Walk,0.69629699
+Meal,Price,0.696294785
+Sightseeing,Name,0.696048677
+Food,Branch,0.69599998
+Arrival,Mom,0.695817888
+People,Tree,0.695629418
+Utilization,Leaf Wraps and Rice,0.695487976
+Accomodation,Lunch,0.694943249
+Ready,Wind,0.694810212
+Soft tofu,Lunch,0.694400728
+Korean beef,Mood,0.694397509
+Menu,Street,0.694355905
+Photo,Site,0.694261909
+Travel,Night view,0.694233894
+Side dish,Leaf Wraps and Rice,0.694091141
+Korean Table d'hote,Lunch,0.694082737
+Time,Maple,0.694010317
+Hanok,Name,0.693989992
+Bulguksa temple,Departure,0.693943083
+Arrival,Korean beef,0.693890512
+Scenery,Visit,0.693806112
+Bulguksa temple,Street,0.693770468
+Morning,Space,0.693678558
+Food,Coffee,0.693508387
+Coffee,Lunch,0.693341196
+Entrance,Story,0.693196952
+Location,Mom,0.693061888
+Museum,Entrance fee,0.693022728
+Dinner,Accomodation,0.692818701
+Cherry blossom,Cheomseongdae,0.692798138
+Price,Possibility,0.692784786
+Grilled Short Rib Patties,Utilization,0.692726672
+Sightseeing,Korean beef,0.692525625
+Dinner,Mood,0.692500174
+Village,One day,0.692452371
+World,Era,0.692392468
+Cafe,Story,0.692240417
+Scenery,History,0.691930056
+History,Accomodation,0.691881478
+Weather,Sky,0.691774249
+Location,Street,0.691685677
+Silla,Yangdong,0.69161272
+Friend,Walk,0.6915766
+Start,Sound,0.691488862
+Leaf Wraps and Rice,Space,0.691386461
+Photo,Space,0.691129804
+Leaf Wraps and Rice,Branch,0.69104898
+Bomun complex,Recommendation,0.69068408
+Travel,Entrance fee,0.690487325
+Story,Street,0.690232158
+Weather,Famous,0.690168858
+Cheonmachong,Lunch,0.689862311
+Entrance,Wind,0.689827621
+Dinner,Mom,0.689785182
+Site,Entrance,0.689714909
+Famous,Leaf Wraps and Rice,0.68949753
+Cherry blossom,Departure,0.689435124
+People,Start,0.689429939
+Mind,Entrance fee,0.689365685
+Thinking,Side dish,0.689231932
+Side dish,Famous,0.689193666
+Time,Scenery,0.688906133
+Wind,Departure,0.688844144
+Bulguksa temple,Complex,0.68882215
+Travel,Museum,0.688445151
+Mind,Experience,0.688166738
+Entrance,One day,0.688022017
+Cherry blossom,Mood,0.687993824
+Mood,Name,0.687793136
+Food,Korean Table d'hote,0.6874578
+Order,Mood,0.687233269
+Restaurant,Cheonmachong,0.687182248
+Entrance,Mom,0.687130094
+Visit,Entrance fee,0.68712914
+Popular restaurant,Arrival,0.686989129
+Silla,Cheomseongdae,0.686697662
+Cherry blossom,Recommendation,0.686552763
+Wind,Leaf Wraps and Rice,0.686419368
+Weather,Space,0.686321437
+Arrival,One day,0.686293304
+Mood,Yangdong,0.686130106
+Order,Possibility,0.685967445
+Seokguram,Parking lot,0.685908079
+Korean beef,Utilization,0.685835898
+Accomodation,Mom,0.685743928
+Night view,Walk,0.68566376
+Mind,One day,0.685538173
+Travel,Mom,0.685187578
+Korean beef,Parking lot,0.685182571
+Anapji,Scenery,0.6850577
+Arrival,Mind,0.685042381
+Photo,Side dish,0.684934378
+Entrance,History,0.68488425
+Hanok,Yangdong,0.684740126
+Night view,Entrance fee,0.684674382
+Korean Table d'hote,Building,0.684610724
+History,Experience,0.684400082
+Course,Street,0.684387147
+Travel,Pension,0.684301734
+Start,Mom,0.684256077
+Anapji,Weather,0.684095085
+Appearance,Seokguram,0.683867216
+Start,Entrance fee,0.683859944
+Bulgogi,Leaf Wraps and Rice,0.68374306
+History,World,0.683678806
+Bomun complex,Utilization,0.683625102
+Start,Entrance,0.683474123
+Course,Korean beef,0.683226109
+Departure,Maple,0.68308568
+Bulguksa temple,Leaf Wraps and Rice,0.683027565
+Family,Leaf Wraps and Rice,0.682917237
+Recommendation,Cheonmachong,0.682787061
+Sightseeing,Grilled Short Rib Patties,0.682644963
+Famous,Lunch,0.68262589
+Friend,Entrance,0.682434022
+Sky,Sound,0.681987643
+Coffee,Korean Table d'hote,0.681971073
+Bomun complex,Wind,0.681963384
+Sky,Name,0.681850374
+Recommendation,Name,0.681758583
+Visit,Street,0.681715012
+Weather,Lunch,0.681709468
+Menu,Downtown,0.68157196
+Friend,Departure,0.681528032
+Museum,Era,0.681407452
+Night view,History,0.681321621
+Bomun complex,History,0.681291163
+Cafe,Bus,0.68103677
+Restaurant,Location,0.68094337
+Downtown,One day,0.680665612
+Leaf Wraps and Rice,Lotus,0.680513322
+Appearance,Entrance,0.680488408
+Location,Mood,0.680474997
+Popular restaurant,Sightseeing,0.680405259
+Recommendation,Mood,0.680314481
+Bomun complex,Culture,0.680224597
+Start,Famous,0.680191815
+Complex,Yangdong,0.68018508
+Weather,Complex,0.680128276
+Cafe,Mind,0.680095136
+Daereungwon,Sightseeing,0.680042744
+Friend,Complex,0.67990011
+Daereungwon,Departure,0.67961663
+Mom,Possibility,0.67957449
+Morning,Mom,0.679460227
+Departure,Walk,0.679420292
+Arrival,Complex,0.679223657
+Friend,Sound,0.679076552
+Mood,Lunch,0.679035723
+Popular restaurant,Cheonmachong,0.679034531
+Bus,Downtown,0.678985298
+Morning,Meal,0.678963304
+Friend,Family,0.67893213
+Thinking,Sightseeing,0.678886354
+Lotus,Street,0.678874433
+Mind,Wind,0.678816676
+Meal,Branch,0.678797483
+Meal,Leaf Wraps and Rice,0.678650856
+Travel,Cherry blossom,0.678482413
+Cheonmachong,Walk,0.678259134
+Site,Building,0.678039908
+Menu,Visit,0.677989006
+Appearance,Night view,0.677926421
+Start,Maple,0.677868843
+Culture,Korean beef,0.67762512
+Soft tofu,Korean beef,0.677592158
+Mood,Departure,0.677483916
+Appearance,Scenery,0.677422702
+Mind,Hanok,0.677305698
+Gyeongju,Arrival,0.677248895
+Sightseeing,Mind,0.677245796
+Start,Tree,0.677226126
+Entrance,Sound,0.677155375
+Popular restaurant,Bomun complex,0.677126229
+Popular restaurant,Thinking,0.677096605
+Time,Entrance,0.677089155
+Hanok,Wind,0.676918983
+Gyeongju,Leaf Wraps and Rice,0.676912665
+Cherry blossom,Appearance,0.676760137
+Food,Bulgogi,0.676736236
+Sightseeing,Coffee,0.676530838
+Travel,Maple,0.676276863
+Appearance,Leaf Wraps and Rice,0.676217437
+Price,Ready,0.676077604
+Bulguksa temple,Friend,0.675849795
+Start,Street,0.675526977
+Village,Mood,0.675458074
+Grilled Short Rib Patties,Parking lot,0.675364792
+Restaurant,Mood,0.675240755
+Scenery,Street,0.675199986
+Arrival,Bus,0.675042808
+Daereungwon,Accomodation,0.675037444
+Scenery,Wind,0.6750108
+Parking lot,Street,0.674977601
+Scenery,Complex,0.67495054
+Morning,Tree,0.674672484
+Village,Hanok,0.674485326
+Anapji,Walk,0.67436868
+Building,Memory,0.674316704
+Thinking,Entrance fee,0.674249709
+Pension,Entrance,0.67420882
+Utilization,Wind,0.674118817
+Mood,Ready,0.673927307
+Travel,Bulguksa temple,0.6738922
+Mood,Story,0.673800051
+Scenery,Coffee,0.673392296
+Visit,Branch,0.673312902
+Time,Famous,0.67311269
+People,Daereungwon,0.673102379
+Travel,Accomodation,0.673041046
+Start,Lotus,0.672989309
+Family,Departure,0.672853351
+Bomun complex,One day,0.672785223
+Night view,Lotus,0.672423959
+Photo,Time,0.671940386
+Culture,Complex,0.671893358
+Travel,Bus,0.671775222
+Daereungwon,Start,0.671764076
+Photo,Mood,0.671592832
+Side dish,Lunch,0.671517909
+Tree,Beach,0.671461105
+Photo,Wind,0.671378434
+Meal,Possibility,0.67135483
+Sightseeing,Lotus,0.671268582
+Sightseeing,Cheonmachong,0.671169221
+Time,Cheomseongdae,0.670882642
+Morning,Mood,0.670692325
+Korean beef,One day,0.670614898
+Tree,Mom,0.670276642
+Memory,Visit,0.669882417
+Bomun complex,Arrival,0.669839144
+Bus,Bicycle,0.669813931
+Namsan mountain,Culture,0.66979599
+One day,Entrance fee,0.669718623
+Famous,Mood,0.66968745
+Complex,Lotus,0.669677794
+Walk,One day,0.669504344
+Weather,Lotus,0.669482946
+Maple,Sound,0.669030905
+Arrival,Story,0.669016898
+Famous,Coffee,0.668921173
+Memory,Mood,0.668863356
+Korean beef,Experience,0.668827832
+Photo,Memory,0.66878736
+Menu,Parking lot,0.668631434
+Space,Maple,0.668446481
+Price,Parking lot,0.668336928
+Tree,Complex,0.668296695
+Arrival,Menu,0.668054879
+Hwangnambbang,Grilled Short Rib Patties,0.667910695
+Time,Utilization,0.667673051
+Photo,Street,0.667586803
+Bulguksa temple,Seokguram,0.667404592
+Mind,Era,0.667390883
+Mind,Utilization,0.66733557
+Cheomseongdae,Weather,0.667308331
+Anapji,Sightseeing,0.667260885
+Scenery,Dinner,0.667102993
+Anapji,Famous,0.666921198
+Coffee,Parking lot,0.666654408
+Bicycle,Cheonmachong,0.666553259
+Visit,Walk,0.666500628
+Museum,Dinner,0.666285515
+Mom,Space,0.666168749
+Thinking,Recommendation,0.666127682
+Name,Street,0.666096568
+Accomodation,Experience,0.666090786
+Bulguksa temple,Culture,0.666086316
+Time,Bomun complex,0.666068494
+Cheomseongdae,Appearance,0.665803313
+Location,History,0.665655375
+Appearance,Complex,0.665623307
+Grilled Short Rib Patties,Location,0.665615678
+Morning,Wind,0.665574372
+Arrival,Famous,0.665516615
+Anapji,Silla,0.665407658
+Bulguksa temple,Scenery,0.665099859
+Era,Visit,0.665021956
+Tree,Story,0.664954424
+Night view,Branch,0.66493541
+Location,Experience,0.664751112
+Bulgogi,Coffee,0.664536953
+Complex,Utilization,0.6642676
+Sky,Ready,0.664239824
+Gyeongju,Location,0.664126396
+Meal,Recommendation,0.664122701
+Sightseeing,Memory,0.664040208
+Time,Daereungwon,0.664015532
+Meal,Accomodation,0.663992405
+Photo,Cafe,0.663947761
+Name,Story,0.663857222
+Cheomseongdae,Lunch,0.663850963
+Popular restaurant,Downtown,0.663772762
+Travel,Daereungwon,0.663665652
+Cheomseongdae,Departure,0.663616776
+Night view,Family,0.663547575
+Start,Mood,0.663489282
+Time,Dinner,0.663364828
+Pension,Cafe,0.663176775
+Accomodation,Wind,0.663090646
+Friend,Leaf Wraps and Rice,0.663020253
+Sky,Experience,0.662987411
+Time,History,0.662534297
+Travel,Hanok,0.66223973
+Site,Era,0.662184238
+Weather,Korean beef,0.66212827
+Thinking,Cherry blossom,0.662089467
+Mood,Street,0.66197288
+Morning,Visit,0.66191256
+Mind,Complex,0.661764741
+Bomun complex,Downtown,0.661447048
+Famous,Entrance fee,0.661376536
+Accomodation,Yangdong,0.6613276
+Beach,Sound,0.661322713
+Bomun complex,Weather,0.661277354
+Order,Visit,0.661256254
+Story,Departure,0.661202729
+Mood,Korean beef,0.661119938
+Weather,Tree,0.661091805
+Time,Downtown,0.660974264
+Mood,Possibility,0.660891652
+History,Entrance fee,0.660795271
+Gyeongju,Mood,0.660782278
+Cafe,Location,0.66078037
+Thinking,Culture,0.660747528
+Mind,Leaf Wraps and Rice,0.660639822
+Experience,Mom,0.660602629
+Branch,Sound,0.660499334
+Famous,Mood,0.660499275
+Cheonmachong,Street,0.66045934
+Anapji,Era,0.66034317
+Autumn,Departure,0.660305321
+Culture,Walk,0.660245419
+Sightseeing,Wind,0.660237432
+Sightseeing,Start,0.66010052
+Arrival,Dinner,0.660043657
+Sightseeing,Mom,0.660003245
+Entrance,Possibility,0.659933507
+Bulgogi,Possibility,0.659882128
+Scenery,Start,0.65985465
+Bus,Daereungwon,0.659641504
+Side dish,Sound,0.659607768
+Tree,Leaf Wraps and Rice,0.659400702
+Story,Walk,0.659392893
+Pension,Lotus,0.659143686
+Order,Leaf Wraps and Rice,0.659110188
+Bulgogi,Name,0.658714473
+Mind,World,0.658479154
+Time,Walk,0.65842241
+Start,Walk,0.658406496
+Gyeongju,Bomun complex,0.658403039
+History,One day,0.65839386
+Coffee,Utilization,0.658298135
+Travel,Coffee,0.658230484
+Scenery,Departure,0.65797323
+Gyeongju,Family,0.657648504
+Downtown,Lunch,0.657592416
+Cherry blossom,Entrance fee,0.657546997
+Thinking,Cheomseongdae,0.657527566
+Photo,Leaf Wraps and Rice,0.657413363
+Start,Departure,0.657379925
+Cheomseongdae,Culture,0.657161593
+Museum,Korean beef,0.656846344
+Daereungwon,Grilled Short Rib Patties,0.656801641
+Bus,Culture,0.656763613
+Thinking,Sound,0.656713128
+Travel,Experience,0.656472325
+Era,Complex,0.656379819
+Photo,Branch,0.65617466
+Era,One day,0.656004548
+Bulguksa temple,Course,0.655962348
+Bus,Possibility,0.655799985
+Bulguksa temple,Start,0.655744374
+Grilled Short Rib Patties,Street,0.655670285
+Korean Table d'hote,Korean beef,0.655587971
+People,Downtown,0.655538619
+Memory,Wind,0.655518711
+Autumn,Mind,0.655466437
+Start,Coffee,0.655369341
+Entrance,Building,0.655332446
+Food,Mood,0.655259073
+Gyeongju,Mom,0.655226111
+Cheonmachong,Departure,0.654783726
+Order,Space,0.654770672
+Start,Hanok,0.654706359
+Daereungwon,Street,0.654559731
+Appearance,Start,0.654474199
+Hotel,Course,0.654435098
+Recommendation,Departure,0.654354453
+Space,Branch,0.654339671
+Mood,Wind,0.65419805
+Building,Visit,0.654014111
+Arrival,Entrance fee,0.653916299
+Photo,Story,0.653694808
+Gyeongju,Culture,0.653653502
+Photo,Entrance fee,0.653467059
+Sky,Mom,0.653457761
+Course,Recommendation,0.653422892
+Site,Ready,0.653357387
+People,Name,0.653300226
+Dinner,Wind,0.653095424
+Cafe,Sound,0.653054893
+Grilled Short Rib Patties,Downtown,0.653028011
+Daereungwon,Dinner,0.652980983
+Time,Menu,0.652963519
+Bulgogi,Story,0.65287739
+Bomun complex,Pension,0.652834594
+Cherry blossom,Sound,0.652824223
+Time,Coffee,0.652751148
+Cafe,Branch,0.65244621
+Food,Soft tofu,0.652296782
+Appearance,Mind,0.652231753
+Bulgogi,Experience,0.652199388
+Bulgogi,Weather,0.652041197
+Mom,One day,0.652017653
+Photo,Sightseeing,0.652003288
+Recommendation,Visit,0.65194869
+Price,Name,0.651916385
+Culture,Leaf Wraps and Rice,0.651913047
+Gyeongju,Weather,0.651886821
+Time,Korean beef,0.651842713
+Cheonmachong,Entrance fee,0.651804805
+Family,Maple,0.651495218
+Entrance,Utilization,0.651341796
+Bulgogi,Site,0.651255012
+Arrival,Entrance,0.651248813
+Photo,Building,0.651165128
+Menu,Cheonmachong,0.651107013
+Start,Weather,0.650959194
+Silla,Weather,0.650674522
+Cheomseongdae,Scenery,0.650572896
+Bulgogi,Price,0.650510967
+Memory,Leaf Wraps and Rice,0.650349081
+Pension,Ready,0.65023315
+Cherry blossom,Scenery,0.650171161
+Bus,Mind,0.649917781
+Korean Table d'hote,Leaf Wraps and Rice,0.649897099
+Travel,Downtown,0.649857283
+Location,Complex,0.649646342
+Morning,Night view,0.649642587
+Bulguksa temple,Space,0.649577975
+Sightseeing,Accomodation,0.64955759
+Cheomseongdae,Dinner,0.649554074
+Side dish,Building,0.64942795
+Grilled Short Rib Patties,Dinner,0.649393141
+Complex,Beach,0.649364293
+Bomun complex,Yangdong,0.649335325
+Course,Sightseeing,0.649189532
+Famous,Recommendation,0.649152339
+Wind,Street,0.649134278
+Silla,Site,0.649077058
+Korean Table d'hote,Possibility,0.649075747
+Scenery,Memory,0.649024665
+Grilled Short Rib Patties,Visit,0.648875058
+Travel,Culture,0.648731947
+Seokguram,Weather,0.648637712
+Cafe,Space,0.64849633
+Sky,Mood,0.648340762
+People,Appearance,0.648333073
+Downtown,Departure,0.648298681
+Tree,Name,0.648226202
+Silla,Walk,0.648201048
+Complex,Story,0.648179293
+Complex,Mood,0.64811784
+Mind,Possibility,0.648098826
+Hanok,Street,0.648009777
+Time,Pension,0.647993445
+Entrance,Walk,0.647962153
+Restaurant,Lunch,0.647667229
+Thinking,Daereungwon,0.647628844
+Sky,Mood,0.647612274
+Famous,Street,0.647605896
+Daereungwon,Mind,0.647389352
+Appearance,Branch,0.647333443
+Tree,Branch,0.647306085
+Meal,Cheonmachong,0.647268951
+Bomun complex,Soft tofu,0.647223711
+Family,Lotus,0.646922708
+Site,Coffee,0.646613181
+Utilization,Story,0.646533012
+Gyeongju,Sightseeing,0.646495044
+Entrance,Hanok,0.645885348
+Morning,Coffee,0.645868242
+Menu,Famous,0.645741105
+Thinking,Story,0.645714104
+Order,Parking lot,0.645521998
+Scenery,Sky,0.645492971
+Seokguram,Accomodation,0.645387292
+Yangdong,Street,0.645357668
+Course,One day,0.64534229
+Grilled Short Rib Patties,Departure,0.645334125
+Mood,Experience,0.645058393
+Pension,Location,0.644994736
+People,Friend,0.644915223
+Time,Visit,0.644871712
+Scenery,Entrance fee,0.644780576
+Museum,Sightseeing,0.644753337
+Bomun complex,Visit,0.644700706
+Downtown,Mood,0.644643188
+Photo,Grilled Short Rib Patties,0.644589543
+Mom,Entrance fee,0.644547403
+Sightseeing,Beach,0.644531012
+Family,Hanok,0.644483685
+Departure,Entrance fee,0.644432962
+Museum,Street,0.644347072
+Order,Famous,0.644345224
+Beach,Lotus,0.644273341
+Bomun complex,Hotel,0.644167423
+People,Story,0.644085228
+Time,Autumn,0.644046903
+Scenery,Meal,0.644013822
+Seokguram,Tree,0.643794835
+Thinking,Bomun complex,0.643544912
+Thinking,Complex,0.643376946
+Coffee,Leaf Wraps and Rice,0.643333673
+Cherry blossom,Korean beef,0.643302381
+Price,Branch,0.643241405
+Arrival,Bicycle,0.643136621
+Cafe,Accomodation,0.643102646
+Dinner,Cheonmachong,0.643080771
+Friend,Possibility,0.642933667
+Travel,Start,0.642914236
+Site,Famous,0.64291048
+Thinking,Night view,0.64287281
+Arrival,Space,0.642788708
+Site,Experience,0.642780125
+Meal,Story,0.642746866
+People,Sound,0.642561495
+Mom,Lotus,0.64244467
+Recommendation,Branch,0.642318428
+Site,Visit,0.642209888
+Restaurant,Name,0.64214319
+Entrance,Maple,0.642092228
+Dinner,Walk,0.64208436
+Cafe,Weather,0.642076612
+Sightseeing,Visit,0.642016113
+Family,Dinner,0.641966343
+Grilled Short Rib Patties,Sound,0.641803503
+Arrival,Scenery,0.641673803
+Anapji,Visit,0.641580939
+Tree,Building,0.641515493
+Museum,One day,0.641474187
+Cafe,Scenery,0.641426623
+Silla,Leaf Wraps and Rice,0.64135921
+Thinking,Coffee,0.641282022
+Entrance,Street,0.641181827
+Photo,Family,0.641156256
+Entrance,Entrance fee,0.641080737
+Bulgogi,Famous,0.641035676
+Entrance,Experience,0.641032457
+Thinking,Entrance,0.640789866
+Travel,Walk,0.640770257
+Course,Night view,0.640607238
+Travel,Space,0.640559912
+Grilled Short Rib Patties,Famous,0.64045018
+People,Grilled Short Rib Patties,0.640365779
+Culture,One day,0.640362144
+Course,Cheonmachong,0.640285313
+Site,Sky,0.640244424
+People,Price,0.640232682
+Weather,Location,0.640180111
+Cafe,Hanok,0.640121281

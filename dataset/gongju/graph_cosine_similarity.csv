@@ -1,0 +1,1461 @@
+Source,Target,Weight
+Apartment,Civil complaint,0.967926443
+Welfare,Society,0.95189476
+Development,possibility,0.95186168
+Use,Apartment,0.947903335
+Use,Bicycle,0.947022438
+Restaurant,Program,0.945585549
+Use,Restaurant,0.944644332
+Capital,Bicycle,0.942078054
+Bicycle,Restaurant,0.941903532
+Land,possibility,0.941547155
+Use,Interior,0.94077003
+Welfare,Service,0.93669796
+Land,Development,0.933538973
+Land,Apartment,0.931117594
+School,Restaurant,0.926996648
+Apartment,Bicycle,0.926389456
+School,Program,0.925997853
+Gongsanseong fortress,Geumgang river,0.923434019
+Happiness,Civil complaint,0.922137141
+Interior,Restaurant,0.921204269
+Use,Program,0.920277834
+Interior,Program,0.919201314
+Apartment,Program,0.917086184
+Interior,Bicycle,0.915679812
+Civil complaint,Program,0.915655673
+Use,Civil complaint,0.912088573
+Capital,Apartment,0.909292519
+Capital,Civil complaint,0.906138003
+Welfare,Banpo-myeon,0.905261874
+School,Civil complaint,0.904929519
+Gyeryongsan mountain,Bicycle,0.904833078
+Price,Construction,0.904805839
+Price,Apartment,0.904783964
+Resource,Program,0.904519856
+Apartment,Interior,0.903826892
+Land,Management,0.902740896
+Gyeryongsan mountain,Building,0.901604116
+Restaurant,Civil complaint,0.901178002
+Space,Creation,0.901135981
+Road,Bicycle,0.900904477
+Bicycle,Civil complaint,0.900312603
+Apartment,Restaurant,0.89833945
+Society,Banpo-myeon,0.89773643
+Family,Provide,0.894859254
+Experience,Provide,0.894813299
+Health,Program,0.894674838
+Evaluation,Selection,0.894661009
+Education,Health,0.894634187
+Travel,Bicycle,0.891957641
+Service,Banpo-myeon,0.891658306
+Price,Civil complaint,0.891354501
+Gyeryongsan mountain,Restaurant,0.890324771
+Journalist,Lee Kun Young,0.889574945
+Happiness,School,0.888456285
+Interior,Civil complaint,0.888278723
+Bicycle,Program,0.888159394
+Group,Institution,0.886949718
+Road,Travel,0.886107743
+Land,Use,0.885502815
+Happiness,Apartment,0.885053217
+Selection,Institution,0.884814799
+School,Resource,0.884649634
+School,Provide,0.884557009
+Happiness,City hall,0.883450866
+Visit,Center,0.880499482
+Competition,City hall,0.880355835
+Space,Provide,0.879989266
+Rural,Resource,0.879814565
+Family,School,0.879783869
+City hall,Civil complaint,0.879019439
+Rural,School,0.878382206
+Love,School,0.877922833
+Capital,Restaurant,0.875230432
+Resource,Restaurant,0.873501182
+Land,Evaluation,0.872494221
+Event,Progress,0.871641636
+Visit,Happiness,0.871270955
+Capital,Use,0.870858908
+Photo,Gyeryongsan mountain,0.870090544
+Gongju,Happiness,0.867645025
+Festival,Family,0.867113709
+Agriculture,Group,0.866527259
+Gyeryongsan mountain,Capital,0.865936697
+Health,Resource,0.865886807
+School,Afternoon,0.865173399
+City,Development,0.864683092
+Welfare,Public official,0.864450455
+Utilization,Bicycle,0.863849401
+Health,Restaurant,0.863455296
+Photo,Building,0.863371611
+School,Interior,0.862878025
+School,Bicycle,0.862684786
+Group,Program,0.862235844
+Culture,Korea,0.862084806
+Park,Provide,0.861657619
+Management,possibility,0.861509681
+Travel,Building,0.860415757
+Group,Selection,0.859847605
+Service,Society,0.859044194
+Gongsanseong fortress,Bicycle,0.858983159
+Utilization,Designation,0.858896554
+Work,Interior,0.858851016
+Society,Public official,0.858794034
+Daejeon,Road,0.858523667
+Management,Apartment,0.857152879
+Gyeryongsan mountain,Location,0.856528819
+Land,Bicycle,0.856162012
+Land,Civil complaint,0.856043041
+Banpo-myeon,Apartment,0.856032848
+Happiness,Price,0.855840981
+Gyeryongsan mountain,Travel,0.855818152
+Volunteer,School,0.854853868
+Installation,Road,0.854683995
+Designation,Use,0.853057921
+Capital,Interior,0.853013337
+Experience,Korea,0.8529796
+Price,Use,0.852333426
+Gongsanseong fortress,Capital,0.852178991
+Plan,Management,0.852011085
+Journalist,Happiness,0.851645708
+Road,Designation,0.851494908
+Happiness,Afternoon,0.850626111
+Visit,School,0.850560963
+School,Apartment,0.850479245
+Land,Price,0.850332618
+Safety,Designation,0.849790692
+City,Land,0.849771321
+Rural,Agriculture,0.848843336
+Capital,School,0.848452926
+Participation,Family,0.84800446
+Baekje,Location,0.847667396
+Festival,Park,0.847473443
+Capital,Travel,0.847469926
+Experience,Event,0.846797407
+Education,Information,0.845977485
+Gyeryongsan mountain,Gongsanseong fortress,0.845813751
+Travel,Designation,0.845040858
+Gongsanseong fortress,History,0.844897389
+School,Group,0.844575584
+Resident,Service,0.844473362
+Use,School,0.843543768
+Use,Health,0.843135417
+Photo,Love,0.842909753
+Building,Bicycle,0.842569232
+Happiness,Program,0.842474103
+Resource,Group,0.842235982
+Park,Nature,0.842199981
+Designation,Apartment,0.841917038
+Tourism,Travel,0.841685593
+Administrative,Service,0.841590881
+Rural,Program,0.841580391
+Designation,Bicycle,0.841417193
+Safety,Restaurant,0.841213942
+Rural,Service,0.841071188
+Experience,Family,0.840925276
+Safety,Health,0.840915263
+Visit,Civil complaint,0.840869009
+Rural,Group,0.840759873
+Gongju,Journalist,0.84067446
+Participation,Provide,0.840647995
+Capital,Happiness,0.840434313
+Business,Evaluation,0.840247512
+Center,Service,0.839747727
+Event,School,0.839272678
+Gyeryongsan mountain,Use,0.839230776
+Capital,Program,0.839227617
+Provide,Restaurant,0.839169502
+Travel,Shingwan-dong,0.839120626
+Center,Creation,0.838742793
+Experience,Society,0.838731229
+Gyeryongsan mountain,Interior,0.83776325
+Photo,Shingwan-dong,0.836748242
+Baekje,Gyeryongsan mountain,0.83654201
+Photo,Travel,0.836534679
+Gongsanseong fortress,Travel,0.836235821
+Love,Resource,0.836184025
+Travel,Restaurant,0.836181343
+Land,Capital,0.835909784
+Market,Civil complaint,0.835705101
+Capital,Representative,0.835366547
+Love,Restaurant,0.835347772
+Family,Korea,0.835287333
+Banpo-myeon,Provide,0.835269392
+Capital,Park,0.834690392
+Volunteer,Civil complaint,0.834041595
+Market,Happiness,0.833658099
+Photo,Restaurant,0.833307087
+Utilization,Road,0.833071589
+Korea,Restaurant,0.832948387
+Experience,Banpo-myeon,0.832425773
+Experience,School,0.832110822
+Gyeryongsan mountain,School,0.832072258
+Road,Building,0.832059562
+Provide,Program,0.831285357
+Visit,Provide,0.831181884
+Building,Shingwan-dong,0.830426276
+Use,Banpo-myeon,0.830213904
+Price,Interior,0.82975173
+Experience,Progress,0.829560339
+Land,Plan,0.829474926
+Selection,Program,0.82934016
+Gyeryongsan mountain,Korea,0.829243541
+Progress,Restaurant,0.828764319
+Housing,Use,0.828661621
+Health,Information,0.828505397
+History,Korea,0.828328967
+Designation,Restaurant,0.828154922
+Happiness,Restaurant,0.827964723
+Chungcheongnam-do,Daejeon,0.827915132
+Management,Designation,0.827890515
+Culture,Provide,0.827699125
+Culture,Tourism,0.82732296
+Experience,Resource,0.827284157
+Apartment,Evaluation,0.827236235
+Daejeon,Bicycle,0.827104867
+Village,Volunteer,0.826979995
+possibility,Apartment,0.826774836
+Banpo-myeon,Public official,0.826644719
+Progress,School,0.826391101
+Photo,School,0.82627362
+Korea,Program,0.826102197
+Plan,Apartment,0.826002359
+Target,Health,0.825637162
+Environment,Banpo-myeon,0.825462997
+Event,Restaurant,0.825437546
+Event,Korea,0.825381517
+Chungcheongnam-do,Capital,0.825144589
+Journalist,Price,0.825093985
+Capital,Daejeon,0.824829876
+Management,Development,0.824752212
+City,Apartment,0.824289739
+Apartment,Construction,0.824198782
+Utilization,Use,0.823975742
+Event,Resource,0.823821545
+possibility,District,0.822624207
+Space,Environment,0.822579026
+Development,District,0.822178006
+Banpo-myeon,Civil complaint,0.822080135
+Magoksa temple,School,0.821955502
+Event,Family,0.821902156
+Happiness,Provide,0.821703136
+Progress,Program,0.821551085
+Utilization,Travel,0.821295738
+Gongsanseong fortress,Building,0.821233034
+Business,Selection,0.821066558
+Housing,Designation,0.820943236
+Korea,Bicycle,0.820481002
+Culture,Experience,0.820331693
+Service,Public official,0.820061743
+Development,Apartment,0.819762468
+Safety,Use,0.819718719
+Progress,Resource,0.819601059
+Progress,Banpo-myeon,0.819257617
+Korea,School,0.819200158
+Journalist,Afternoon,0.819179416
+Creation,Provide,0.818723977
+Capital,Road,0.818693399
+Banpo-myeon,Program,0.818378985
+Baekje,Era,0.818376303
+Management,Use,0.817820132
+Center,Provide,0.817755461
+Land,Interior,0.817610979
+Market,City hall,0.817513943
+Education,Target,0.817396879
+Land,District,0.817301929
+Gongsanseong fortress,Utilization,0.816897452
+Experience,Space,0.816826582
+Progress,City councilor,0.816669881
+Volunteer,Afternoon,0.815936089
+Magoksa temple,Lee Kun Young,0.815921247
+Park,Travel,0.815734029
+Family,Program,0.815526545
+Volunteer,Resource,0.815193534
+Geumgang river,Park,0.815151274
+Resident,Civil complaint,0.815014005
+Evaluation,Institution,0.814821005
+Seoul,Bicycle,0.814511359
+Event,Provide,0.814009011
+Installation,Apartment,0.813674569
+Gyeryongsan mountain,Program,0.813578427
+Space,Use,0.813436031
+Happiness,Bicycle,0.813431442
+Space,Center,0.813319564
+Installation,Bicycle,0.813266456
+Visit,City hall,0.813053787
+Public official,Afternoon,0.812146008
+Plan,possibility,0.812049329
+Baekje,History,0.811820865
+Daejeon,Travel,0.811520517
+Service,Civil complaint,0.81095016
+Utilization,Apartment,0.810901403
+Gongsanseong fortress,Road,0.810858071
+Participation,School,0.810605526
+Participation,Program,0.810477436
+Selection,Information,0.810292542
+Park,Family,0.810231984
+Culture,Event,0.810171127
+Visit,Banpo-myeon,0.810146809
+Construction,Civil complaint,0.809747219
+Visit,Afternoon,0.80972296
+Service,Volunteer,0.809636891
+Utilization,Restaurant,0.809511244
+Target,Group,0.80917573
+Development,Bicycle,0.809089899
+Visit,Service,0.808977485
+Life,Banpo-myeon,0.808928132
+City,possibility,0.808896244
+Happiness,Representative,0.808726609
+Activity,Volunteer,0.808142126
+Magoksa temple,Provide,0.808135271
+City hall,Afternoon,0.808014452
+Event,Competition,0.807739317
+Happiness,Banpo-myeon,0.807699919
+Gongju,Afternoon,0.807629883
+Health,Apartment,0.807482362
+Capital,Utilization,0.806749046
+Photo,Bicycle,0.806473494
+Institution,Program,0.806315899
+Education,Program,0.805952787
+Resource,Civil complaint,0.805897057
+Space,Banpo-myeon,0.805590332
+Service,School,0.805536151
+Education,Restaurant,0.80552882
+Tourism,Designation,0.805445015
+Target,Selection,0.805332422
+Road,Use,0.804977715
+Provide,Schedule,0.80482471
+Rural,Civil complaint,0.80459857
+Capital,City hall,0.804366648
+Progress,Bicycle,0.804000616
+Volunteer,Public official,0.803866088
+Center,Banpo-myeon,0.803786993
+Education,Resource,0.803641617
+Housing,Apartment,0.803630352
+Market,Apartment,0.803436756
+Festival,Provide,0.803359866
+Lee Kun Young,Happiness,0.80329442
+Road,Restaurant,0.802611291
+Utilization,Installation,0.802484035
+Progress,Happiness,0.802172661
+Banpo-myeon,Bicycle,0.802053154
+Progress,Korea,0.801604092
+Progress,Civil complaint,0.801424205
+Environment,Provide,0.801373243
+Happiness,Construction,0.801162004
+Service,Happiness,0.801142752
+Price,Program,0.801045358
+Seoul,Restaurant,0.801003277
+Road,Seoul,0.800629079
+Afternoon,Civil complaint,0.800253272
+Lee Kun Young,Price,0.799951136
+Visit,Apartment,0.799619198
+City hall,School,0.799565673
+Housing,Bicycle,0.799565434
+Space,Interior,0.799512684
+Agriculture,Program,0.799428821
+Group,Schedule,0.799250066
+Use,Resource,0.799063504
+Center,School,0.798948109
+Road,Apartment,0.798884094
+Group,Civil complaint,0.798774719
+Capital,Geumgang river,0.798377991
+Geumgang river,Nature,0.798366547
+Competition,Civil complaint,0.798356652
+Business,Environment,0.798356175
+Representative,Civil complaint,0.797976196
+Photo,Seoul,0.797940493
+Schedule,Program,0.797934711
+Rural,Happiness,0.797737658
+Gongju,Civil complaint,0.797725797
+Seoul,Building,0.797629535
+Happiness,Solar thermal power,0.797615409
+Event,Park,0.797479928
+Experience,Restaurant,0.797301292
+Rural,Love,0.797260046
+Culture,School,0.796794116
+Price,Bicycle,0.796616197
+Park,Bicycle,0.796608508
+Use,Provide,0.796414256
+City hall,Apartment,0.796405792
+Utilization,Interior,0.796337366
+History,Bicycle,0.796278
+Agriculture,Resource,0.796160996
+City,Environment,0.795959771
+Magoksa temple,Festival,0.79578054
+Progress,Competition,0.795663834
+Land,Construction,0.795624554
+Culture,History,0.795567214
+Development,Evaluation,0.795533538
+Building,Location,0.795529544
+Village,School,0.79546684
+Provide,Afternoon,0.795334995
+City,Management,0.795222819
+Park,Restaurant,0.795210719
+Activity,Civil complaint,0.795201838
+Lee Kun Young,City hall,0.795117915
+Family,Restaurant,0.794874907
+Event,Love,0.794738531
+Happiness,Use,0.794724762
+Housing,Health,0.794696033
+Daejeon,Shingwan-dong,0.794521511
+School,Public official,0.794412792
+School,Banpo-myeon,0.794173181
+Gyeryongsan mountain,Gapsa temple,0.79411459
+Gongju,City hall,0.794063509
+Volunteer,Program,0.794028521
+Price,Restaurant,0.793996513
+Health,Interior,0.793708742
+Housing,Restaurant,0.793707192
+Lee Kun Young,Civil complaint,0.793542922
+Visit,Creation,0.793270409
+Korea,Provide,0.793200135
+Installation,Designation,0.793065012
+Competition,Happiness,0.792753994
+Market,School,0.792728305
+Banpo-myeon,Restaurant,0.792714417
+Progress,Society,0.792608976
+Agriculture,School,0.792534769
+Culture,Progress,0.792479932
+Environment,Apartment,0.792465866
+Experience,Welfare,0.792282462
+Health,Civil complaint,0.792095304
+Love,Program,0.791762471
+Rural,Volunteer,0.791598737
+Photo,Capital,0.791414142
+Capital,Price,0.791257977
+Land,Designation,0.79102242
+School,Representative,0.790706992
+Baekje,Gongsanseong fortress,0.790502191
+Apartment,Provide,0.790428519
+Gyeryongsan mountain,History,0.790410757
+Gongju,School,0.790307164
+Environment,Evaluation,0.790215492
+Visit,Family,0.790006578
+Volunteer,Love,0.789838612
+Event,Program,0.789663494
+Village,Seoul,0.78965205
+Space,Evaluation,0.789617419
+Shingwan-dong,Bicycle,0.789599001
+Participation,Center,0.789503932
+Tourism,History,0.78887856
+Culture,Family,0.788671374
+Land,Environment,0.788638532
+Capital,possibility,0.788529932
+Experience,Program,0.788435996
+Daejeon,Seoul,0.78840673
+Travel,Location,0.788287997
+Life,Health,0.788141251
+Chungcheongnam-do,Travel,0.788118958
+Center,Happiness,0.788070261
+Capital,Development,0.78686583
+Health,Selection,0.786801517
+Development,Use,0.786768019
+Management,District,0.786753416
+Travel,Use,0.786732495
+Schedule,Restaurant,0.786619604
+Capital,History,0.78642267
+Resident,Visit,0.786324143
+Happiness,Public official,0.786310554
+Gyeryongsan mountain,Utilization,0.786271513
+Society,School,0.786007881
+Competition,Representative,0.785942852
+Museum,Interior,0.785910428
+Progress,Apartment,0.785817504
+Location,Bicycle,0.785560369
+Gongsanseong fortress,Park,0.78485775
+Center,Civil complaint,0.784643173
+Welfare,Center,0.784460306
+Volunteer,Happiness,0.784452021
+Welfare,Happiness,0.784105659
+City,Happiness,0.783776879
+Center,Afternoon,0.783662736
+Target,Program,0.783635199
+Interior,Provide,0.783514559
+Tourism,Creation,0.783489585
+Happiness,Interior,0.783350945
+Chungcheongnam-do,Seoul,0.783190966
+Gyeryongsan mountain,Shingwan-dong,0.782832384
+City,Bicycle,0.782346308
+Management,Price,0.782313645
+Provide,Civil complaint,0.782276332
+Progress,Visit,0.782272637
+Education,Selection,0.782255411
+City councilor,Civil complaint,0.782158911
+Society,Resource,0.781996965
+Gyeryongsan mountain,Park,0.781818926
+Culture,Happiness,0.781772792
+Restaurant,Afternoon,0.78172791
+Park,School,0.781714797
+Gyeryongsan mountain,Geumgang river,0.781707227
+Service,Apartment,0.781622946
+Management,Banpo-myeon,0.781605721
+Education,Safety,0.781566501
+Event,Schedule,0.781566381
+Journalist,Provide,0.781464458
+Culture,Visit,0.78126061
+Welfare,Visit,0.781104207
+Culture,Baekje,0.781040907
+Service,Afternoon,0.781017005
+Market,Program,0.780682087
+Gyeryongsan mountain,Road,0.780599833
+Village,Love,0.780594826
+Gyeryongsan mountain,Era,0.780572593
+Business,Happiness,0.780516386
+Nature,Environment,0.780409276
+Rural,Visit,0.780206978
+Target,Information,0.780199468
+School,Schedule,0.780169785
+Plan,Civil complaint,0.780168176
+Plan,City councilor,0.780068398
+Space,Apartment,0.779869974
+History,Location,0.779848576
+possibility,Use,0.779839694
+Capital,Installation,0.779754102
+possibility,Bicycle,0.779502511
+Resource,Selection,0.779427111
+Public official,Restaurant,0.779389262
+Resident,Apartment,0.779312849
+Park,Lee Kun Young,0.77896589
+Chungcheongnam-do,Bicycle,0.778922856
+Progress,Use,0.778843641
+Land,Banpo-myeon,0.778747737
+Progress,Provide,0.778368294
+School,Institution,0.778147995
+Welfare,School,0.778022826
+Business,Information,0.77800256
+Management,Civil complaint,0.777905464
+Interior,Schedule,0.777582705
+Welfare,Rural,0.777535081
+Tourism,Space,0.777406037
+Plan,Development,0.777315974
+Space,School,0.776896775
+Photo,Korea,0.77673173
+Life,Program,0.776638925
+Building,Restaurant,0.776457965
+Agriculture,Selection,0.776443243
+Culture,Festival,0.776388705
+Utilization,History,0.776271582
+City,Capital,0.77608341
+City,Daejeon,0.776060104
+Public official,Civil complaint,0.776051879
+Capital,Progress,0.775976002
+Happiness,Group,0.77594322
+Designation,Program,0.775559902
+Park,Korea,0.775475144
+Apartment,Selection,0.775320172
+Welfare,Afternoon,0.77525872
+Use,Evaluation,0.775101304
+Nature,Provide,0.774934947
+Experience,Visit,0.774920881
+Magoksa temple,Journalist,0.774917126
+Housing,Program,0.774603724
+Welfare,Civil complaint,0.774339199
+Nature,Korea,0.774307668
+Evaluation,Civil complaint,0.774077833
+Gongju,Capital,0.773860395
+Village,Resident,0.773711264
+Resource,Afternoon,0.773694158
+Competition,Group,0.7735039
+Service,Provide,0.773486912
+Provide,Bicycle,0.773436844
+Resident,Banpo-myeon,0.773335755
+Gongju,Lee Kun Young,0.773210049
+Land,Work,0.772940874
+Chungcheongnam-do,Photo,0.772840083
+Business,Price,0.772578657
+City,Plan,0.772187471
+Group,Representative,0.772115052
+Land,Program,0.772105277
+Space,Bicycle,0.772048533
+Society,Provide,0.772025228
+Shingwan-dong,Restaurant,0.771954656
+Lee Kun Young,Provide,0.771942616
+Banpo-myeon,Interior,0.771679997
+Service,Program,0.771460116
+Management,Installation,0.771449387
+Capital,Visit,0.771377742
+Business,Apartment,0.770731211
+Tourism,Provide,0.770627499
+Center,Apartment,0.770617127
+Gyeryongsan mountain,Love,0.770583093
+Gongju,Visit,0.770534039
+Culture,Park,0.770463943
+Welfare,Volunteer,0.770292342
+Festival,Participation,0.770108342
+Group,Restaurant,0.769877732
+Market,Group,0.769535601
+Photo,Geumgang river,0.76916945
+Geumgang river,Bicycle,0.768958092
+Journalist,Civil complaint,0.768912256
+Business,Land,0.768617392
+Citizen,Event,0.768578231
+Market,Capital,0.76845777
+Park,Journalist,0.768258274
+Travel,School,0.768254101
+Afternoon,Program,0.768179774
+Competition,School,0.768134296
+possibility,Evaluation,0.767979503
+Korea,Use,0.767888606
+Daejeon,Construction,0.767790616
+Health,Group,0.767787516
+Resource,Interior,0.767448127
+Magoksa temple,Park,0.767372966
+Housing,Price,0.767360926
+History,Travel,0.767143667
+Rural,Restaurant,0.767141581
+Family,Afternoon,0.766958475
+Land,Installation,0.766766787
+Travel,Apartment,0.76661545
+Market,Institution,0.766561925
+possibility,City councilor,0.766507387
+Agriculture,Civil complaint,0.766174436
+Experience,Life,0.765814066
+Progress,Nature,0.765671313
+Agriculture,Restaurant,0.765548646
+Chungcheongnam-do,Shingwan-dong,0.765415668
+Culture,Creation,0.765132785
+Festival,School,0.765103817
+Housing,Interior,0.765101194
+Experience,Rural,0.765098751
+Installation,Use,0.765067041
+Space,Restaurant,0.76480031
+Love,Family,0.764612973
+Management,Bicycle,0.764611602
+Volunteer,Restaurant,0.76457566
+Magoksa temple,Family,0.764512062
+Gongsanseong fortress,Tourism,0.764445603
+Event,Afternoon,0.764438868
+Experience,Service,0.764184356
+Capital,Building,0.764000237
+Park,Tourism,0.76385361
+Happiness,Environment,0.763800323
+Participation,Institution,0.763738692
+Capital,Lee Kun Young,0.763595819
+Education,Life,0.76336211
+Utilization,Space,0.763237834
+Market,Visit,0.763171554
+Market,Selection,0.763124406
+Volunteer,City hall,0.763116479
+Education,Public official,0.762807369
+Competition,Program,0.76278919
+Price,Designation,0.76270324
+Volunteer,Group,0.76262027
+Gapsa temple,Era,0.762546718
+Utilization,Program,0.762495041
+Culture,Space,0.762471735
+Tourism,Bicycle,0.762416303
+Space,Visit,0.762370706
+Installation,Solar thermal power,0.762314975
+Space,Service,0.762314141
+Korea,Interior,0.762241244
+Experience,Participation,0.762157679
+Housing,Civil complaint,0.76205641
+Interior,Selection,0.762044668
+Visit,Society,0.762011826
+Capital,Location,0.761621296
+Activity,Apartment,0.761491597
+Safety,Road,0.761450469
+Price,Evaluation,0.761228204
+Visit,Lee Kun Young,0.760901451
+Society,Afternoon,0.760830224
+Designation,Interior,0.760639131
+Culture,Program,0.760475338
+Culture,Capital,0.760348082
+Welfare,Resource,0.760070205
+Selection,Civil complaint,0.759784877
+Capital,Korea,0.759719789
+Progress,Rural,0.759665251
+Gyeryongsan mountain,Civil complaint,0.759604633
+Tourism,Development,0.759604156
+Experience,Public official,0.759414494
+Environment,Selection,0.75926435
+Environment,Bicycle,0.759144425
+Gongju,Restaurant,0.758642375
+Geumgang river,Korea,0.758397877
+Apartment,District,0.758306086
+Society,Happiness,0.758169293
+Competition,Afternoon,0.758117259
+Capital,Tourism,0.758108974
+Plan,Banpo-myeon,0.757946193
+Solar thermal power,Representative,0.757729769
+Rural,Society,0.757562876
+Citizen,Restaurant,0.757502258
+Daejeon,Civil complaint,0.757278562
+Use,District,0.757231653
+Public official,Program,0.757209361
+possibility,Civil complaint,0.757046998
+Gyeryongsan mountain,Apartment,0.756886721
+Daejeon,Building,0.756829381
+Bicycle,Representative,0.756765127
+Representative,Program,0.756638706
+Safety,Program,0.756605387
+Installation,Restaurant,0.756578386
+Resource,Public official,0.756506503
+Happiness,Agriculture,0.756443441
+School,Health,0.756441414
+Participation,Banpo-myeon,0.756358445
+Resident,Volunteer,0.75620997
+Love,Afternoon,0.756193578
+Tourism,Utilization,0.756069064
+Work,Apartment,0.755918682
+Park,Schedule,0.755895495
+Volunteer,Provide,0.755814135
+Use,Environment,0.755800843
+Solar thermal power,Civil complaint,0.755777538
+Road,Interior,0.755493224
+Experience,Nature,0.755490661
+Event,Group,0.755287707
+Resource,Provide,0.755234599
+Land,Restaurant,0.755068123
+Rural,Afternoon,0.754933357
+Capital,Seoul,0.754899383
+Korea,Resource,0.754867256
+Society,Restaurant,0.754677474
+Administrative,Interior,0.754593372
+Seoul,Travel,0.754486561
+City,Construction,0.754437685
+Resource,Apartment,0.75435853
+Society,Volunteer,0.754228354
+Land,Happiness,0.754217029
+Capital,Provide,0.754096568
+Participation,Visit,0.753733933
+Chungcheongnam-do,Road,0.753595233
+Capital,Nature,0.753533781
+Safety,Management,0.753479362
+Environment,Interior,0.753453374
+Gongsanseong fortress,Korea,0.753394127
+Service,Interior,0.75328356
+Life,Restaurant,0.753249943
+Designation,Civil complaint,0.753190756
+Daejeon,Happiness,0.753187478
+Seoul,School,0.753129661
+Festival,Schedule,0.753069162
+School,Selection,0.752947927
+Gongju,Representative,0.752765596
+Creation,Apartment,0.752638102
+Gyeryongsan mountain,Seoul,0.752510905
+Capital,Competition,0.752457857
+Administrative,Happiness,0.752341092
+Participation,Interior,0.752340019
+Gongju,Apartment,0.752229631
+Capital,Construction,0.752215087
+Designation,Health,0.752135456
+Work,Bicycle,0.751820147
+Bicycle,Construction,0.751645863
+Progress,City hall,0.751594961
+Activity,City hall,0.75148344
+Journalist,City hall,0.75142771
+Safety,Apartment,0.751426995
+Event,Participation,0.751326919
+Welfare,Apartment,0.751321316
+Love,Agriculture,0.751236796
+Happiness,Resource,0.751131177
+Photo,Event,0.750644565
+Participation,Restaurant,0.750488222
+Apartment,Public official,0.750446498
+City,Banpo-myeon,0.750405312
+Center,Interior,0.750401437
+Geumgang river,Travel,0.750112891
+Welfare,Provide,0.750105321
+Institution,Restaurant,0.750088513
+Plan,Evaluation,0.750082791
+Schedule,Institution,0.750004828
+Culture,Restaurant,0.749951184
+Seoul,Civil complaint,0.749893069
+Apartment,Information,0.749695122
+Land,Housing,0.749688685
+Capital,Designation,0.749603152
+Plan,Designation,0.749509275
+Resource,Institution,0.749498963
+Service,Use,0.749450147
+Safety,Bicycle,0.749167085
+Event,Happiness,0.749157608
+Apartment,City councilor,0.748994529
+Target,Schedule,0.748969913
+Travel,Civil complaint,0.748882115
+Daejeon,Representative,0.748808026
+Utilization,School,0.748306811
+History,Representative,0.748285174
+Use,Work,0.748234689
+Park,Museum,0.748148322
+Work,Civil complaint,0.748096526
+Competition,Resource,0.747917652
+Park,Happiness,0.747824669
+City,Civil complaint,0.747716784
+Service,Resource,0.747684896
+Land,Space,0.747561872
+Group,Afternoon,0.74754566
+Space,Program,0.747518599
+Happiness,Family,0.747496784
+Baekje,Tourism,0.747411132
+Road,Civil complaint,0.747317314
+Visit,Program,0.747226179
+Family,Resource,0.74721086
+Park,Creation,0.747202456
+Journalist,School,0.747158408
+Gongsanseong fortress,Installation,0.746931612
+Use,Selection,0.746860623
+Service,Environment,0.746855915
+Market,Center,0.746834099
+Location,School,0.746727288
+Target,Agriculture,0.746568739
+Resource,Banpo-myeon,0.746567488
+Evaluation,Interior,0.746538222
+Land,Road,0.746506155
+Gongsanseong fortress,Development,0.746459365
+Provide,Public official,0.746385932
+Installation,Civil complaint,0.746269107
+Rural,Interior,0.746245623
+Experience,Park,0.746134043
+Price,School,0.746032715
+Progress,Schedule,0.745933712
+Market,Afternoon,0.745922685
+Utilization,Civil complaint,0.74580121
+Gongju,Chungcheongnam-do,0.745455384
+Magoksa temple,Gapsa temple,0.745328546
+Visit,Volunteer,0.745141804
+Health,Bicycle,0.744888961
+Administrative,Program,0.744859993
+Capital,City councilor,0.744835615
+Work,Schedule,0.744702458
+Business,Agriculture,0.744595706
+Experience,Education,0.744521499
+Plan,Use,0.744507492
+Lee Kun Young,School,0.744488418
+Road,Construction,0.744363666
+Gongsanseong fortress,Nature,0.744311512
+Education,Use,0.744273245
+Seoul,Shingwan-dong,0.744184315
+Participation,Afternoon,0.74415344
+Experience,Use,0.744036496
+Life,Provide,0.743999302
+Journalist,Volunteer,0.743770599
+Photo,Park,0.743360221
+Institution,Civil complaint,0.743258178
+Information,Program,0.743040442
+Geumgang river,Building,0.743034959
+Daejeon,History,0.742981672
+Housing,Utilization,0.742876351
+Volunteer,Apartment,0.7427423
+Gongju,Price,0.742738724
+Agriculture,Representative,0.742655516
+Housing,Target,0.742541313
+Apartment,Representative,0.74250561
+Administrative,Civil complaint,0.742451489
+Development,Environment,0.742417037
+Participation,Schedule,0.742165923
+Chungcheongnam-do,Park,0.742088497
+Plan,Capital,0.742030621
+City hall,Representative,0.742000818
+Selection,Restaurant,0.741979599
+Designation,Banpo-myeon,0.741868138
+Plan,Happiness,0.741863728
+Photo,Family,0.741817653
+Evaluation,Program,0.741806805
+Schedule,Civil complaint,0.741762698
+Citizen,Happiness,0.74157089
+Gyeryongsan mountain,Magoksa temple,0.741502583
+Culture,Competition,0.741425037
+Plan,Environment,0.741135776
+Life,Designation,0.741113722
+City,Tourism,0.74081558
+Visit,Restaurant,0.740767658
+Lee Kun Young,Apartment,0.740690529
+Park,Interior,0.740600586
+Designation,Provide,0.740485966
+Family,Banpo-myeon,0.74042511
+Photo,Representative,0.74027431
+Photo,Road,0.740116596
+Life,Resource,0.740029871
+Interior,Group,0.739972889
+Park,Progress,0.739938498
+Creation,Environment,0.739726186
+Environment,Program,0.739691854
+Baekje,Korea,0.739674568
+Service,Life,0.739546299
+Creation,Schedule,0.739272892
+Village,Civil complaint,0.739208281
+Utilization,Korea,0.739207029
+Park,Participation,0.739099801
+Happiness,Schedule,0.739098847
+Solar thermal power,School,0.738961697
+Korea,Banpo-myeon,0.738822043
+Volunteer,Lee Kun Young,0.73844111
+Gongsanseong fortress,Use,0.73829776
+Chungcheongnam-do,Restaurant,0.738288164
+Society,Civil complaint,0.738223732
+Restaurant,Representative,0.738047898
+Education,Designation,0.738026321
+Resident,Welfare,0.737765491
+Plan,Bicycle,0.73775816
+Creation,Evaluation,0.737704575
+Use,Information,0.737679541
+Rural,Banpo-myeon,0.737617373
+Road,Shingwan-dong,0.73747927
+Business,Provide,0.737011611
+Gongju,Provide,0.737008989
+Culture,Bicycle,0.736961782
+Market,Agriculture,0.736836135
+Utilization,Building,0.736752748
+Gongsanseong fortress,Daejeon,0.736747146
+Installation,Price,0.736577034
+Interior,Afternoon,0.736574292
+Participation,Apartment,0.736391783
+Creation,School,0.736194909
+Welfare,Use,0.736186683
+Apartment,Group,0.735995233
+Resident,Rural,0.735841453
+Housing,Information,0.735761106
+Administrative,Institution,0.735609055
+Safety,Installation,0.735563397
+Nature,Bicycle,0.735413074
+Administrative,Apartment,0.735318124
+Management,Road,0.73529017
+Market,Resource,0.735283554
+Gongju,Solar thermal power,0.735275269
+Travel,Provide,0.735054791
+Bicycle,City councilor,0.735045671
+Apartment,Schedule,0.73485744
+Festival,Program,0.734857082
+Geumgang river,History,0.734790027
+Business,Civil complaint,0.734523833
+Administrative,Selection,0.734446406
+Use,Construction,0.734365642
+Development,Civil complaint,0.734256566
+Bicycle,District,0.734251559
+Welfare,Program,0.734029114
+Development,City councilor,0.733769238
+Work,Program,0.733762324
+Apartment,Institution,0.733684361
+Progress,Family,0.733624816
+Daejeon,Apartment,0.733524263
+Creation,Interior,0.733488798
+Chungcheongnam-do,Civil complaint,0.733481288
+Chungcheongnam-do,Gyeryongsan mountain,0.733374596
+Photo,Gongsanseong fortress,0.733190715
+Target,Restaurant,0.733046591
+Resource,Bicycle,0.732957423
+Rural,Selection,0.732839704
+Location,Restaurant,0.732833982
+Housing,Road,0.732674301
+Photo,Program,0.732640743
+Happiness,City councilor,0.732565403
+Volunteer,Banpo-myeon,0.732524574
+Love,Civil complaint,0.732386649
+Welfare,Restaurant,0.732305408
+Resident,School,0.732048094
+Price,City hall,0.731962562
+Love,Korea,0.731864572
+Plan,District,0.731836379
+Space,Civil complaint,0.731684387
+Capital,Banpo-myeon,0.731602967
+Location,Use,0.731483221
+Park,Use,0.731427133
+Capital,Shingwan-dong,0.731426835
+Evaluation,Group,0.731329322
+Information,Civil complaint,0.73126781
+Life,Korea,0.731256962
+Photo,Daejeon,0.731225729
+Creation,Civil complaint,0.731048703
+Village,Service,0.730784893
+Capital,Solar thermal power,0.730677962
+Gongju,Bicycle,0.73037672
+Progress,Group,0.730243981
+Chungcheongnam-do,School,0.730080247
+Participation,Progress,0.73005414
+Installation,Interior,0.730053365
+Information,Restaurant,0.729959428
+Agriculture,Health,0.729883611
+Tourism,Apartment,0.729836106
+Culture,Apartment,0.729592502
+Market,Restaurant,0.72935611
+Education,Apartment,0.729340076
+Life,Use,0.72931397
+Capital,Work,0.729106426
+Experience,Afternoon,0.72896874
+Location,Interior,0.728952408
+Volunteer,Price,0.728895187
+City hall,Restaurant,0.728819788
+Price,Provide,0.728770792
+Land,Creation,0.728657901
+Rural,Apartment,0.728575289
+Business,Use,0.728528619
+Travel,Korea,0.728461862
+Building,Interior,0.728370309
+Happiness,Selection,0.728161871
+Love,Happiness,0.728105605
+Business,Space,0.728048623
+Center,Family,0.728029311
+Life,Family,0.727927744
+Schedule,Selection,0.727909207
+Society,Program,0.72786808
+Travel,Interior,0.727848828
+Administrative,School,0.727609277
+Capital,Festival,0.727593243
+City,Gongsanseong fortress,0.727319479
+Price,Information,0.727219522
+Gongsanseong fortress,Restaurant,0.727179348
+Plan,Price,0.72711277
+Capital,Center,0.726958036
+Designation,District,0.726940691
+Visit,Bicycle,0.726798475
+Welfare,Progress,0.726571858
+Lee Kun Young,Afternoon,0.726437807
+Era,Interior,0.726418197
+Magoksa temple,Travel,0.726396263
+Volunteer,Family,0.726376593
+City,Road,0.726164877
+Experience,Happiness,0.726098895
+Safety,Public official,0.726060271
+Center,Evaluation,0.725974798
+Participation,Civil complaint,0.72589165
+Magoksa temple,Civil complaint,0.725852966
+Creation,Happiness,0.725770295
+Park,Space,0.72560972
+Representative,Afternoon,0.725584149
+Health,Institution,0.725471675
+Utilization,Provide,0.725241125
+Market,Activity,0.725225627
+Service,Restaurant,0.725178659
+Event,Gyeryongsan mountain,0.725175798
+Magoksa temple,Restaurant,0.725160182
+Gongsanseong fortress,Location,0.725147963
+Event,Nature,0.724946916
+Land,Tourism,0.72493577
+Capital,Activity,0.724883318
+Installation,Construction,0.724882126
+Center,Society,0.724821925
+School,Shingwan-dong,0.724820435
+Interior,Construction,0.724723458
+Service,Selection,0.724683285
+Education,Installation,0.724658132
+Festival,Korea,0.72458452
+Festival,Creation,0.724573553
+Family,Civil complaint,0.724514663
+Progress,Interior,0.724501431
+Magoksa temple,Afternoon,0.724413097
+Society,Use,0.724294901
+Participation,Resource,0.724278271
+Use,Public official,0.724125147
+Park,Apartment,0.724035442
+Magoksa temple,Volunteer,0.723998725
+Journalist,Restaurant,0.723963201
+Target,Institution,0.723937094
+Gyeryongsan mountain,Family,0.723936677
+Family,Public official,0.723917663
+Resident,Utilization,0.723878384
+Agriculture,Shingwan-dong,0.723808229
+Gongju,Daejeon,0.723416328
+Plan,Installation,0.723408222
+Resident,Center,0.723358452
+Nature,Restaurant,0.723331571
+Environment,Restaurant,0.723290443
+Visit,Public official,0.723127484
+Village,Restaurant,0.722903907
+City hall,Bicycle,0.722620249
+Market,Evaluation,0.72255069
+Market,Rural,0.722549617
+Utilization,Environment,0.722523272
+Competition,Apartment,0.722505331
+Safety,Interior,0.722497821
+Gongju,Photo,0.722427547
+Lee Kun Young,Travel,0.722411871
+Provide,Group,0.72240591
+Culture,Civil complaint,0.722366214
+Provide,Selection,0.722362518
+Capital,Creation,0.722344637
+City hall,Program,0.722210526
+Gongju,Magoksa temple,0.721846282
+Gongsanseong fortress,Shingwan-dong,0.721776366
+Price,Health,0.72171241
+Administrative,Public official,0.721625149
+Management,Evaluation,0.72153604
+Park,Program,0.721434295
+City,Use,0.721377611
+City,History,0.72121942
+Culture,Gyeryongsan mountain,0.721094966
+Competition,Restaurant,0.721068382
+City,Price,0.721053004
+Gongju,Park,0.720846534
+Evaluation,Bicycle,0.720832586
+Citizen,Participation,0.720816314
+Safety,Life,0.720692813
+Culture,Use,0.72068876
+Market,Competition,0.720452905
+Festival,Tourism,0.720435977
+Center,Public official,0.720385671
+Agriculture,Schedule,0.720263124
+Center,Volunteer,0.720236182
+Progress,Space,0.720175624
+Participation,Nature,0.719891429
+Business,Creation,0.719721615
+Tourism,Use,0.719646811
+Solar thermal power,Apartment,0.71946758
+Era,Use,0.719391942
+Provide,Institution,0.719382584
+Magoksa temple,Happiness,0.719334483
+History,Interior,0.719151974
+Price,Banpo-myeon,0.719124079
+Land,City councilor,0.719096601
+Rural,Family,0.71906054
+Market,Representative,0.719013274
+Price,Selection,0.719011068
+Gyeryongsan mountain,Daejeon,0.718982995
+Development,Work,0.718966603
+Welfare,Environment,0.718687773
+Seoul,Program,0.718597412
+Agriculture,Institution,0.718366921
+Target,Representative,0.718334258
+Interior,Institution,0.71832788
+History,Building,0.71828115
+possibility,Price,0.718257546
+Participation,Public official,0.717985988
+Banpo-myeon,Evaluation,0.7178936
+Gyeryongsan mountain,Festival,0.71784997
+Seoul,Use,0.717821419
+Space,Korea,0.717791855
+Daejeon,Installation,0.717719257
+Culture,Afternoon,0.717551053
+Center,Program,0.717537224
+Citizen,Safety,0.71753633
+Welfare,Life,0.717405915
+Administrative,Resident,0.717382789
+Park,Visit,0.717219293
+Experience,Environment,0.717159927
+Park,History,0.717122912
+Happiness,Evaluation,0.717083037
+Family,Bicycle,0.71702981
+Administrative,Center,0.71699369
+Utilization,Banpo-myeon,0.716977537
+Volunteer,Health,0.716825843
+Participation,Group,0.716804445
+Environment,District,0.716766119
+Building,Use,0.716712832
+Price,Environment,0.716598213
+Museum,Space,0.716568828
+Land,Selection,0.716531694
+Management,Program,0.716373444
+Gyeryongsan mountain,Designation,0.716353834
+Management,Interior,0.716318667
+Chungcheongnam-do,Magoksa temple,0.716317713
+Use,Schedule,0.716262996
+Creation,Bicycle,0.716260254
+Park,Civil complaint,0.716228902
+Center,Environment,0.716226757
+Creation,Banpo-myeon,0.716033459
+Work,City councilor,0.716031432
+City,Visit,0.715884745
+Visit,Group,0.715863287
+Citizen,School,0.715778708
+Culture,Location,0.71576184
+Housing,Travel,0.71575278
+Journalist,Apartment,0.715689063
+Citizen,Program,0.71563673
+Business,Schedule,0.715485811
+Volunteer,Use,0.715459645
+Market,Progress,0.715452135
+Plan,Visit,0.715441406
+Housing,Capital,0.715412736
+Administrative,Banpo-myeon,0.71536088
+Gongju,Program,0.715258121
+Love,Group,0.715256393
+Event,Capital,0.715240002
+Land,Utilization,0.715229094
+Gyeryongsan mountain,Representative,0.715187907
+Experience,Center,0.715148091
+Welfare,Space,0.715112388
+Business,Development,0.714920282
+Citizen,Family,0.714416146
+Business,District,0.714394748
+Visit,Solar thermal power,0.714199305
+Capital,Evaluation,0.714038193
+Gyeryongsan mountain,Provide,0.714012682
+Development,Banpo-myeon,0.713991225
+Interior,Information,0.713886678
+Resident,Program,0.713876963
+Designation,Environment,0.713747442
+Rural,Provide,0.713739574
+Capital,Magoksa temple,0.713698983
+Space,Nature,0.713622212
+Gongsanseong fortress,Interior,0.713580728
+Experience,Bicycle,0.713350058
+Target,Resource,0.713347912
+Participation,Korea,0.713331759
+Gongsanseong fortress,Designation,0.713185191
+Happiness,Institution,0.71317476
+Evaluation,Provide,0.713014126
+Event,Bicycle,0.712798536
+Culture,Citizen,0.712780356
+Seoul,Interior,0.712623358
+Museum,Work,0.712592065
+Solar thermal power,Afternoon,0.712244987
+Citizen,Festival,0.711835086
+Culture,City hall,0.711795449
+Life,Public official,0.711766422
+Rural,Use,0.711674988
+Target,Price,0.711598098
+Society,Family,0.711559772
+Love,Bicycle,0.711478412
+Gongju,Market,0.711471975
+Tourism,Korea,0.711428404
+Love,Health,0.711364329
+Safety,Civil complaint,0.711317182
+Festival,Travel,0.711309254
+Culture,Banpo-myeon,0.711259067
+Festival,Restaurant,0.71123457
+Environment,Civil complaint,0.711231649
+Land,Gongsanseong fortress,0.711215734
+Administrative,Afternoon,0.711134791
+Geumgang river,Road,0.711091638
+Chungcheongnam-do,City councilor,0.711072326
+Space,Family,0.711043
+Visit,Environment,0.711017013
+Plan,Program,0.710911274
+Education,School,0.710885346
+Rural,Center,0.710859716
+Agriculture,Interior,0.710766673
+Event,Visit,0.710760593
+Apartment,Afternoon,0.710447729
+Life,Apartment,0.710294664
+Capital,Participation,0.710278094
+Photo,Location,0.710277677
+Bicycle,Public official,0.71026659
+Evaluation,Information,0.709902883
+Visit,Use,0.709758043
+Participation,Happiness,0.709664106
+Road,Price,0.709631741
+Education,Group,0.709504783
+Festival,Interior,0.70947355
+Family,Schedule,0.709301591
+Culture,Participation,0.709045053
+Capital,Family,0.708993316
+Experience,Love,0.708964407
+Lee Kun Young,Restaurant,0.708640337
+Price,Work,0.708629072
+Capital,Space,0.708448172
+Life,School,0.708269775
+Participation,Space,0.708210826
+Participation,Selection,0.708188474
+Creation,Use,0.708138168
+Event,Civil complaint,0.708090425
+Installation,Program,0.70803982
+Work,Evaluation,0.708020687
+Magoksa temple,Price,0.707956731
+Development,Nature,0.707908094
+Society,Apartment,0.707734168
+City,Designation,0.70761025
+Creation,Lee Kun Young,0.707599699
+Business,Market,0.707597077
+Resident,Happiness,0.707527876
+Activity,Program,0.707517624
+Baekje,Capital,0.70741719
+Park,Center,0.707395494
+Capital,Management,0.70735997
+Park,Shingwan-dong,0.707250297
+Magoksa temple,Creation,0.707210898
+Road,History,0.707166612
+Safety,Resource,0.70706445
+Travel,Program,0.707033873
+Korea,Apartment,0.706827104
+Magoksa temple,Love,0.706319928
+Management,Construction,0.706106424
+Interior,Representative,0.706036866
+Citizen,Park,0.706020296
+Nature,Banpo-myeon,0.70567733
+Seoul,Apartment,0.70550257
+Health,Public official,0.705417871
+Visit,Interior,0.705326259
+Progress,Environment,0.705326021
+Culture,Representative,0.70531404
+Gongsanseong fortress,Apartment,0.705289423
+possibility,Environment,0.705251157
+Visit,Schedule,0.705229998
+Business,Program,0.705058575
+Development,Designation,0.705020487
+Housing,Gyeryongsan mountain,0.704993486
+Family,Interior,0.704815328
+Travel,Family,0.704809308
+City hall,Public official,0.704764962
+Service,Price,0.704715133
+Agriculture,Work,0.704517186
+Capital,Afternoon,0.704462826
+Institution,Afternoon,0.704339623
+Village,Program,0.704139829
+Evaluation,District,0.704083681
+Administrative,Price,0.704052687
+Capital,Environment,0.703980863
+Management,Restaurant,0.703671396
+Administrative,Evaluation,0.703601241
+Village,Rural,0.703128219
+Center,City hall,0.703094244
+Plan,Progress,0.703002095
+Culture,Interior,0.702988207
+Resource,Information,0.702961922
+Service,Bicycle,0.702909052
+Family,Apartment,0.702790201
+City,District,0.702706993
+Society,Bicycle,0.702590883
+Solar thermal power,Restaurant,0.702291667
+Tourism,Restaurant,0.702244341
+Target,Civil complaint,0.702101529
+Business,Restaurant,0.702088296
+Price,Schedule,0.7020486
+Baekje,Bicycle,0.702044368
+Gongju,Schedule,0.701887846
+Journalist,Schedule,0.701792717
+Festival,Happiness,0.701476872
+Capital,Journalist,0.701296806
+Daejeon,City councilor,0.701275289
+Happiness,Travel,0.701264501
+Happiness,Korea,0.701211095
+Society,Life,0.701208353
+City hall,Use,0.701193094
+Love,Provide,0.70112735
+Service,Evaluation,0.701010406
+Event,Society,0.70095551
+Culture,Schedule,0.70078826
+Environment,School,0.700766683
+Event,Festival,0.700495422
+Culture,Center,0.700268805
+Management,Environment,0.700260162
+Progress,Agriculture,0.699872553
+Space,Schedule,0.699837446
+Use,Group,0.699770689
+Solar thermal power,Bicycle,0.699767232
+Work,Construction,0.699761569
+Administrative,Construction,0.699710786
+Progress,Institution,0.699694276
+Installation,Travel,0.699612558
+Era,Location,0.699534118
+Development,Road,0.69947201
+Location,Korea,0.699337482
+Education,Provide,0.699331582
+Visit,Resource,0.699283659
+Location,Civil complaint,0.699275315
+Geumgang river,Utilization,0.699186981
+Gongju,Public official,0.699142337
+Experience,Civil complaint,0.699102938
+City hall,Group,0.699075222
+Education,Civil complaint,0.698986173
+Gongju,Travel,0.698971093
+Housing,Safety,0.698963046
+Gongju,Shingwan-dong,0.69884783
+Rural,Health,0.698570073
+Resource,Schedule,0.698522449
+Gongsanseong fortress,possibility,0.69851625
+Target,Apartment,0.698492408
+Designation,Public official,0.698417306
+Space,Society,0.698343158
+City,Evaluation,0.698262811
+Plan,Restaurant,0.698185325
+Welfare,Bicycle,0.698145032
+Participation,Use,0.698125958
+Target,Interior,0.697976649
+Space,Designation,0.697864294
+Daejeon,Restaurant,0.697862208
+Development,Interior,0.697835386
+Magoksa temple,Location,0.697559774
+Experience,Interior,0.697529495
+Space,Happiness,0.697458327
+Journalist,Program,0.697451711
+Chungcheongnam-do,Apartment,0.697270513
+Welfare,Interior,0.697260439
+Work,Restaurant,0.697232604
+Road,Program,0.697232068
+History,Use,0.697173715
+Photo,Solar thermal power,0.697162628
+Lee Kun Young,Use,0.697119355
+Rural,City councilor,0.697102726
+Agriculture,Apartment,0.697051346
+Administrative,Bicycle,0.696995556
+possibility,Work,0.696880341
+Education,Banpo-myeon,0.696715236
+Space,Selection,0.696706355
+Housing,Installation,0.696662068
+Rural,Korea,0.696553767
+Market,Price,0.696546316
+Chungcheongnam-do,Happiness,0.696536183
+Chungcheongnam-do,Representative,0.696470201
+Administrative,Welfare,0.696389437
+Village,Bicycle,0.696378648
+Park,Utilization,0.696262002
+Institution,Representative,0.696133614
+Market,Use,0.696081161
+City,Installation,0.695963323
+Culture,Market,0.695954621
+Plan,Center,0.695906937
+Use,City councilor,0.695864439
+Gyeryongsan mountain,Tourism,0.695785105
+Volunteer,Interior,0.695763946
+Education,Event,0.69575423
+Journalist,Visit,0.695719004
+Progress,Afternoon,0.69570142
+Gyeryongsan mountain,Resource,0.695691168
+City hall,Provide,0.69552958
+Love,Shingwan-dong,0.695477605
+Development,Space,0.6954633
+Use,Institution,0.695439816
+Activity,Price,0.695375144
+Development,Creation,0.695288837
+Event,City hall,0.695181489
+Tourism,Visit,0.695017397
+Culture,City,0.694944382
+Administrative,Group,0.694827735
+Gongju,Business,0.694697022
+Visit,Competition,0.694679677
+possibility,Banpo-myeon,0.694656491
+Activity,Use,0.69462508
+Citizen,Korea,0.69460088
+Administrative,Rural,0.694404721
+Park,Designation,0.694367051
+Magoksa temple,Visit,0.694226146
+Love,Public official,0.694204569
+Family,Use,0.694168925
+Progress,Selection,0.693997324
+Management,Health,0.693971813
+Festival,Bicycle,0.693827152
+Interior,Public official,0.69382441
+Banpo-myeon,Selection,0.693813682
+Nature,Use,0.693797648
+Center,Use,0.693774045
+Center,Bicycle,0.693473399
+Market,Health,0.69335562
+City councilor,Program,0.69333154
+Center,Restaurant,0.693234324
+Capital,Schedule,0.69311142
+Event,Representative,0.692913532
+District,Program,0.692857563
+Development,Progress,0.69264555
+Experience,Volunteer,0.692615271
+Market,Interior,0.692535698
+Health,Schedule,0.692484558
+Designation,School,0.692442477
+Event,Rural,0.692305505
+Progress,Representative,0.692193627
+Evaluation,Restaurant,0.692105293
+Event,Use,0.691978157
+Housing,Seoul,0.691822946
+City,Creation,0.69171828
+Schedule,Bicycle,0.691703975
+Plan,Nature,0.69161272
+Daejeon,School,0.691607535
+Experience,Apartment,0.691503108
+Installation,Environment,0.691447496
+Education,Institution,0.691248178
+Schedule,Afternoon,0.691156626
+Love,Interior,0.691063881
+Education,Bicycle,0.691057265
+City hall,City councilor,0.690915287
+Housing,Evaluation,0.690896451
+Photo,Utilization,0.690731764
+Management,Happiness,0.690730035
+Korea,Environment,0.690691411
+Agriculture,City councilor,0.690678298
+Business,Banpo-myeon,0.690414131
+Visit,Representative,0.690346897
+Citizen,Progress,0.690331876
+Competition,Schedule,0.690264881
+Agriculture,Use,0.690189481
+Progress,Center,0.69010514

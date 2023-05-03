@@ -1,0 +1,1218 @@
+Source,Target,Weight
+Seongsan,Ilchulbong,0.992829621
+Order,Side dish,0.99032253
+Pension,Aewol,0.980978429
+Course,Braised cutlassfish,0.974188924
+Order,Emotion,0.971439898
+Meat,Emotion,0.971410394
+Jungmun tourism complex,House,0.970784843
+Cafe,Pension,0.968598127
+Cutlassfish,Experience,0.967413962
+Emotion,Side dish,0.966123998
+Abalone,Seaside,0.966072261
+Order,Braised cutlassfish,0.964233458
+Braised cutlassfish,Side dish,0.960974336
+Accomodation,Lunch,0.958510399
+Coast,Aewol,0.958294034
+Meat,Seaside,0.957596064
+Reservation,Side dish,0.956302762
+Cafe,Aewol,0.956300616
+Seaside,Emotion,0.955638349
+Airplane,Side dish,0.953830838
+Braised cutlassfish,Emotion,0.953563929
+Abalone,Woman diver,0.953185558
+Course,Side dish,0.953049958
+Popular restaurant,Meat,0.952442825
+Popular restaurant,Order,0.95177263
+Popular restaurant,Side dish,0.950094104
+Meat,Course,0.949858606
+Meal,Accomodation,0.949761391
+Popular restaurant,Tree,0.949368298
+WaterFall,Lunch,0.948915303
+Meat,Order,0.948858559
+Course,Reservation,0.947526276
+Sashimi restaurant,Grilled dish,0.947387993
+Meat,Braised cutlassfish,0.946698606
+Jeju city,Sashimi restaurant,0.946665943
+Experience,Side dish,0.946470499
+Cutlassfish,Resort,0.945323527
+Course,Order,0.945068061
+Braised cutlassfish,Reservation,0.945042074
+Meal,Lunch,0.944832623
+Airplane,Emotion,0.944039583
+Order,Airplane,0.943867445
+Course,Emotion,0.943241596
+Order,Experience,0.942714036
+Wind,Sky,0.942566454
+Braised cutlassfish,Airplane,0.942203999
+Popular restaurant,Recommendation,0.941748977
+Jeju city,Grilled dish,0.941442132
+Popular restaurant,Emotion,0.941434801
+Sightseeing,WaterFall,0.941397607
+Order,Reservation,0.941366971
+Meat,Side dish,0.941053748
+Popular restaurant,Braised cutlassfish,0.94084543
+Course,Seaside,0.938557267
+Weather,Autumn,0.93843329
+Grilled dish,Summer,0.938364625
+Sea,Sky,0.936987281
+Accomodation,Dinner,0.936794281
+Meat,Sashimi restaurant,0.936366677
+Accomodation,WaterFall,0.935385048
+Airplane,Reservation,0.934738994
+House,Entrance,0.934517264
+Recommendation,Pension,0.934037924
+Popular restaurant,Pension,0.93400991
+Arrival,WaterFall,0.932549834
+Popular restaurant,Seaside,0.931610644
+Seongsan,WaterFall,0.931489289
+Park,Tourism,0.931100368
+Airplane,Sightseeing,0.930448055
+Airplane,Dinner,0.9300946
+Meal,WaterFall,0.929228306
+Photo,Hallasan mountain,0.929156721
+Seaside,Side dish,0.928688765
+Popular restaurant,Course,0.928688705
+Recommendation,Braised cutlassfish,0.928488255
+Reservation,Grilled dish,0.927368224
+Village,Tourism,0.927020729
+Nature,Story,0.92693001
+Ilchulbong,WaterFall,0.926891148
+Experience,Resort,0.925941885
+Dinner,Sightseeing,0.925293386
+WaterFall,Hot Pot,0.925129712
+Photo,Dinner,0.924459994
+Popular restaurant,Airplane,0.924449444
+Airport,Hot Pot,0.924421906
+Recommendation,Aewol,0.924003601
+Weather,Dinner,0.923965812
+Airport,Arrival,0.923953652
+Meat,Reservation,0.923820496
+Sashimi restaurant,Reservation,0.923620939
+Airport,Accomodation,0.9235484
+Cutlassfish,Side dish,0.923433006
+Seongsan,Accomodation,0.923177361
+Accomodation,Ilchulbong,0.922447622
+Order,Seaside,0.922353208
+Coast,Pension,0.922130704
+Abalone,Emotion,0.921668231
+Meal,Hot Pot,0.921558321
+Braised cutlassfish,Seaside,0.921427071
+Cafe,Mood,0.921423793
+Braised cutlassfish,Hot Pot,0.920790613
+Reservation,Emotion,0.920568049
+Experience,Ready,0.919289708
+Airport,WaterFall,0.919242382
+Pension,Mood,0.918914258
+Order,Tree,0.918500721
+Airport,Dinner,0.918416739
+Course,Airplane,0.918218672
+Meal,Sightseeing,0.917659521
+Popular restaurant,Reservation,0.91764313
+Airport,Lunch,0.916801751
+Seaside,Airplane,0.916295469
+House,Visit,0.916279197
+Cutlassfish,Possibility,0.916094065
+Experience,Airplane,0.916040778
+Meat,Abalone,0.915853143
+Jungmun tourism complex,Visit,0.915751576
+Reservation,Hot Pot,0.915288806
+Wind,Autumn,0.915035725
+Hallasan mountain,Dinner,0.91486913
+Seaside,Reservation,0.914812505
+Wind,Weather,0.91398102
+Scenery,Autumn,0.91395551
+Experience,Possibility,0.913557947
+Popular restaurant,Aewol,0.913438916
+Hallasan mountain,Ilchulbong,0.913266778
+Popular restaurant,Sightseeing,0.913132429
+Popular restaurant,Park,0.912684917
+Accomodation,Hot Pot,0.912412167
+Order,Cutlassfish,0.912240148
+Possibility,Resort,0.911714792
+Experience,Sightseeing,0.911695898
+Morning,Hallasan mountain,0.91144228
+Jeju city,Reservation,0.911298335
+Price,Tree,0.911033452
+Accomodation,Sightseeing,0.910920262
+Weather,Sky,0.910830438
+Recommendation,Sightseeing,0.910777748
+Braised cutlassfish,Tree,0.910502255
+Seongsan,Dinner,0.910491526
+Coffee,Side dish,0.910015643
+Popular restaurant,Tourism,0.909527302
+Order,Coffee,0.909207344
+Village,Name,0.909147084
+Airport,Meal,0.908858478
+Jeju city,Summer,0.908850968
+Sashimi restaurant,Summer,0.908622324
+Morning,Weather,0.908380508
+Ready,Sightseeing,0.908023119
+Village,Park,0.907787383
+Photo,Recommendation,0.907667696
+Braised cutlassfish,Sashimi restaurant,0.907574832
+Meat,Recommendation,0.907208681
+Popular restaurant,Experience,0.906990409
+WaterFall,Autumn,0.906537354
+Airplane,Hot Pot,0.906268835
+Scenery,Hallasan mountain,0.90623349
+Restaurant,Jeju city,0.906105161
+Morning,Dinner,0.90602386
+Park,Emotion,0.905934155
+Scenery,Visit,0.90559119
+Popular restaurant,Mood,0.905487657
+Tree,Side dish,0.905160189
+Mood,Aewol,0.905107677
+Experience,Tree,0.905068576
+Seongsan,Arrival,0.90503943
+Meat,Name,0.904980958
+Ilchulbong,Dinner,0.904958427
+Oreum,Spot,0.904817343
+Arrival,Lunch,0.904729068
+Recommendation,Airplane,0.904642522
+Course,Recommendation,0.904587626
+Tree,Park,0.904557347
+Pension,Introduction,0.904504776
+Dinner,Lunch,0.904443204
+Appearance,Scenery,0.904112816
+Course,Hot Pot,0.903827548
+Appearance,Space,0.90366745
+Sea,Wind,0.903613448
+Course,Grilled dish,0.903538942
+Scenery,Sightseeing,0.903243542
+Scenery,Weather,0.901891828
+Coast,Road,0.901687086
+Recommendation,Tourism,0.901676714
+Family,Resort,0.901673615
+Popular restaurant,Jeju city,0.901668787
+Sashimi restaurant,Emotion,0.90142417
+Braised cutlassfish,Jeju city,0.901405632
+Airport,Seongsan,0.901374042
+Course,Abalone,0.901111662
+Hallasan mountain,Weather,0.900883615
+Sea,Abalone,0.900719464
+Recommendation,Seaside,0.900569201
+Seongsan,Sightseeing,0.900448143
+Side dish,Resort,0.90035224
+Sky,Autumn,0.900320947
+Seongsan,Hallasan mountain,0.900292039
+Seongsan,Lunch,0.900184512
+Popular restaurant,Entrance,0.900027573
+Photo,Weather,0.899820328
+Meal,Dinner,0.899726212
+Meat,Airplane,0.899505198
+Seaside,Woman diver,0.899157226
+Recommendation,Dinner,0.899035573
+Weather,Airplane,0.898642898
+Photo,Accomodation,0.898357689
+Hot Pot,Lunch,0.898140132
+Jeju Island,Hot Pot,0.898037672
+Airplane,WaterFall,0.898003638
+Arrival,Ilchulbong,0.897344232
+Wind,Hallasan mountain,0.897279322
+Recommendation,Emotion,0.897026539
+Dinner,WaterFall,0.896645367
+Lunch,Autumn,0.89649111
+Weather,Sightseeing,0.896413803
+Popular restaurant,Sashimi restaurant,0.89621824
+Meat,Jeju city,0.89620626
+Meal,Recommendation,0.896005452
+Airplane,Ready,0.895868897
+Cutlassfish,Reservation,0.895789206
+Accomodation,Arrival,0.895702302
+Sightseeing,Tourism,0.895603597
+Braised cutlassfish,Sightseeing,0.895587683
+Photo,Airplane,0.895526409
+Sashimi restaurant,Side dish,0.895331204
+Aewol,Introduction,0.895323873
+Braised cutlassfish,Grilled dish,0.895040751
+Ilchulbong,Sightseeing,0.89480561
+Tree,Sightseeing,0.894740701
+Order,Sightseeing,0.894728541
+Order,Sashimi restaurant,0.894568503
+Jungmun tourism complex,Entrance,0.894365191
+Order,Recommendation,0.894189119
+Meat,Park,0.894064188
+Seaside,Park,0.89405638
+Ilchulbong,Lunch,0.893851817
+Recommendation,Side dish,0.89384079
+Course,Sashimi restaurant,0.893273234
+Coffee,Emotion,0.89300257
+Tourism,Introduction,0.892985284
+Order,Branch,0.892954528
+Airport,Ilchulbong,0.892701149
+Seaside,Sightseeing,0.892699003
+Sightseeing,Autumn,0.892201662
+Space,Introduction,0.892187953
+Accomodation,Hallasan mountain,0.891577065
+Braised cutlassfish,Autumn,0.891552329
+Cafe,Coast,0.891330659
+Scenery,WaterFall,0.89120096
+Morning,Sightseeing,0.891103804
+Road,Aewol,0.891063988
+Pension,Tree,0.890932322
+Sightseeing,Lunch,0.890868843
+Pension,Braised cutlassfish,0.890541673
+Travel,Airport,0.890264153
+Experience,Emotion,0.890207291
+Aewol,Name,0.890189826
+Aewol,Tourism,0.890103757
+Scenery,Jungmun tourism complex,0.889517307
+Sightseeing,Side dish,0.889319479
+Recommendation,Mood,0.888869166
+Emotion,Sightseeing,0.888715088
+Braised cutlassfish,Dinner,0.888625026
+Meat,Grilled dish,0.888029277
+Scenery,House,0.887965024
+Popular restaurant,Village,0.88754797
+Photo,Sightseeing,0.887284935
+Abalone,Braised cutlassfish,0.886850476
+Jeju Island,Photo,0.88678652
+Popular restaurant,Price,0.88609916
+Side dish,Branch,0.885936797
+Meal,Pension,0.885861397
+Experience,WaterFall,0.885847867
+Photo,Scenery,0.885731816
+Meal,Autumn,0.885305762
+Spot,Tree,0.885194719
+Famous,Aewol,0.885020733
+Seogwipo,Jungmun tourism complex,0.884901226
+Order,Entrance,0.884717941
+Meal,Braised cutlassfish,0.884641826
+Airplane,Autumn,0.884598494
+Hallasan mountain,Autumn,0.884316504
+Visit,Entrance,0.883949161
+House,Mood,0.883918941
+Order,Resort,0.883915722
+Seongsan,Hot Pot,0.883895993
+Seogwipo,Experience,0.883658171
+Jeju Island,Braised cutlassfish,0.883657753
+Restaurant,Grilled dish,0.883577466
+Scenery,Wind,0.883085608
+Ready,Side dish,0.882963181
+Photo,Morning,0.88260287
+Tree,Emotion,0.882471621
+Photo,House,0.881941676
+Accomodation,Road,0.881739199
+Dinner,Hot Pot,0.881625235
+Abalone,Order,0.881521165
+Seogwipo,WaterFall,0.881497741
+Emotion,Entrance,0.881475866
+Order,Park,0.88116914
+Experience,Reservation,0.880652606
+Experience,Braised cutlassfish,0.880473554
+Order,Ready,0.880329669
+Tree,Aewol,0.880179763
+Course,Jeju city,0.880166888
+Ready,Emotion,0.880134046
+Braised cutlassfish,Park,0.880023003
+Sea,Woman diver,0.879572213
+Recommendation,Reservation,0.879520416
+Coffee,Airplane,0.879514277
+Family,Reservation,0.879512131
+Order,Hot Pot,0.87950021
+Airport,Weather,0.879350901
+Meat,Tree,0.87892884
+Food,Grilled dish,0.878877938
+Course,Tree,0.878739774
+Recommendation,Name,0.878047228
+Weather,WaterFall,0.878042459
+Popular restaurant,Name,0.877978086
+Park,Sightseeing,0.877946138
+Emotion,Autumn,0.877842546
+Appearance,Introduction,0.877720833
+Hotel,Seogwipo,0.876932323
+Sightseeing,Hot Pot,0.87651217
+Seaside,Name,0.876503348
+Mood,Introduction,0.876253188
+Abalone,Side dish,0.87603718
+Tree,Tourism,0.876009285
+Ilchulbong,Hot Pot,0.876007378
+Pension,Famous,0.875937819
+Seogwipo,House,0.875863612
+Braised cutlassfish,WaterFall,0.875624478
+Side dish,Hot Pot,0.875586808
+Pension,Name,0.875451624
+Visit,Sightseeing,0.875432193
+Village,Recommendation,0.875415325
+Popular restaurant,House,0.875365674
+Seongsan,Weather,0.874981761
+Spot,Park,0.874774456
+Tree,Airplane,0.874743581
+Scenery,Accomodation,0.874722242
+Scenery,Spot,0.874659359
+Abalone,Airplane,0.874491334
+Meal,Weather,0.87448287
+Accomodation,Braised cutlassfish,0.874210536
+Meat,Village,0.874159515
+Scenery,Introduction,0.87375319
+Scenery,Meal,0.873647928
+Meal,Arrival,0.87349242
+Recommendation,Famous,0.873456955
+Travel,Accomodation,0.873405099
+Cutlassfish,Tree,0.873325586
+Side dish,Grilled dish,0.873073637
+Seaside,Ready,0.873048425
+Pension,Tourism,0.872920811
+Hallasan mountain,Sightseeing,0.872875094
+Recommendation,Park,0.872483492
+Seaside,Sashimi restaurant,0.872384787
+Dinner,Autumn,0.872298717
+Seogwipo,Sightseeing,0.872290075
+Recommendation,Introduction,0.872133911
+Meat,Pension,0.872030735
+Jeju Island,Course,0.871910572
+Seaside,Tourism,0.871728837
+Accomodation,Airplane,0.871727705
+Abalone,Sky,0.871576428
+Seongsan,Meal,0.871448696
+Seongsan,Morning,0.871422887
+Experience,Coffee,0.871280789
+Pension,Jeju city,0.871189117
+Road,Pension,0.871090412
+Order,Price,0.870908856
+Order,WaterFall,0.87065959
+Cafe,Recommendation,0.870388031
+Recommendation,Jeju city,0.870241642
+Space,Park,0.869894564
+Name,Tourism,0.869833767
+House,Introduction,0.869178653
+Village,Aewol,0.869038761
+Travel,Hot Pot,0.868833959
+Meat,Sightseeing,0.868805051
+Photo,Meal,0.868773758
+Meat,Entrance,0.868618011
+Airplane,Lunch,0.868425071
+Abalone,Reservation,0.868317783
+Seongsan,Autumn,0.867990851
+Accomodation,Seogwipo,0.867898643
+House,Sightseeing,0.86786598
+Popular restaurant,Cafe,0.867503881
+Course,Sightseeing,0.867412806
+Meal,Airplane,0.867205501
+Photo,Coast,0.866802931
+Course,Pension,0.866540253
+Popular restaurant,Abalone,0.86619252
+Cutlassfish,Airplane,0.865907967
+Park,Side dish,0.865846157
+Braised cutlassfish,Coffee,0.865750372
+Order,Possibility,0.865749657
+Popular restaurant,Introduction,0.865569949
+Popular restaurant,Coast,0.865412176
+Experience,Seaside,0.865406215
+Recommendation,Tree,0.865318835
+Family,Side dish,0.865309596
+Arrival,Hot Pot,0.864899099
+Accomodation,Recommendation,0.864815414
+Price,Side dish,0.864624202
+Popular restaurant,Family,0.864446938
+Photo,Aewol,0.864250779
+Ready,WaterFall,0.863960981
+Appearance,House,0.863678396
+Pension,Sightseeing,0.863623738
+Reservation,Summer,0.863579452
+Morning,Ilchulbong,0.863404155
+Spot,Braised cutlassfish,0.863181233
+Morning,Autumn,0.863016248
+Braised cutlassfish,Lunch,0.862969875
+Accomodation,Autumn,0.862793446
+Food,Reservation,0.862788975
+Grilled dish,Hot Pot,0.862688839
+Order,Pension,0.862588406
+Cafe,Introduction,0.86216104
+Mood,Name,0.861978412
+Accomodation,Pension,0.861868501
+Popular restaurant,Cutlassfish,0.86181736
+Scenery,Lunch,0.861501753
+Coast,Introduction,0.861473799
+Entrance,Side dish,0.861320555
+Braised cutlassfish,Aewol,0.86108017
+Jeju city,Hot Pot,0.861002803
+Emotion,Grilled dish,0.86089766
+Spot,WaterFall,0.860370338
+Tree,Reservation,0.860197723
+Jungmun tourism complex,Introduction,0.860147536
+Spot,Ilchulbong,0.860073447
+Order,Jeju city,0.860070467
+Course,Park,0.859942853
+Meat,Hot Pot,0.859872341
+Photo,Sky,0.859852493
+Seaside,Tree,0.85945338
+Spot,Sightseeing,0.859305799
+Jeju Island,Airplane,0.859284163
+Meal,Ilchulbong,0.859282374
+Course,Dinner,0.859257698
+Weather,Lunch,0.859235644
+Airplane,Sashimi restaurant,0.859162569
+Sashimi restaurant,Hot Pot,0.859076977
+Woman diver,Summer,0.859064519
+Pension,Reservation,0.858927608
+Cutlassfish,Ready,0.858907163
+Coast,Tree,0.858872592
+Travel,WaterFall,0.858767986
+Course,Experience,0.858739257
+Ready,Autumn,0.858521819
+Family,Airplane,0.858421803
+Sky,Emotion,0.858191192
+Sea,Seaside,0.8581236
+Restaurant,Summer,0.857691765
+Spot,Hallasan mountain,0.857546687
+Possibility,Side dish,0.857477129
+Jeju city,Side dish,0.857260644
+Recommendation,Hot Pot,0.857237101
+Popular restaurant,Spot,0.857172608
+Order,Grilled dish,0.857043147
+Restaurant,Sashimi restaurant,0.857030928
+Accomodation,Weather,0.856960356
+Jeju Island,Accomodation,0.856960118
+Park,Name,0.856740296
+Jeju city,Tree,0.856597424
+Side dish,WaterFall,0.856381416
+Weather,Ilchulbong,0.856262386
+Weather,Ready,0.855952144
+Order,House,0.85587436
+Village,Pension,0.855448484
+Scenery,Morning,0.855440378
+Ilchulbong,Autumn,0.855272591
+Braised cutlassfish,Summer,0.855112791
+Restaurant,Food,0.85502851
+Famous,Filming,0.854965985
+Emotion,Hot Pot,0.854770362
+Photo,Appearance,0.854639888
+Popular restaurant,Space,0.854508519
+Seaside,Grilled dish,0.854458153
+Jeju city,Emotion,0.854302168
+Sky,Airplane,0.854146898
+Recommendation,Weather,0.853971899
+Coast,Recommendation,0.853640556
+Scenery,Ilchulbong,0.853382409
+Reservation,Resort,0.85317713
+Time,Use,0.853120685
+Appearance,Recommendation,0.852959931
+Village,Braised cutlassfish,0.852945209
+People,Seaside,0.852549016
+Popular restaurant,Photo,0.852535665
+Location,Grilled dish,0.852533698
+Abalone,Summer,0.852490902
+Photo,Wind,0.852481186
+Coast,Mood,0.852391481
+Cutlassfish,Family,0.85238862
+Jeju Island,Meal,0.852383733
+Park,Introduction,0.852272451
+Jeju Island,Recommendation,0.85215348
+Popular restaurant,Coffee,0.851925552
+Emotion,Story,0.851778448
+Restaurant,Pension,0.851222396
+Order,Spot,0.851179659
+Jeju Island,Dinner,0.851147234
+Weather,Emotion,0.851137459
+House,Airplane,0.851134658
+Travel,Meal,0.851009369
+Travel,Lunch,0.850909591
+House,Emotion,0.850533545
+Course,People,0.850103617
+Experience,Family,0.850073695
+Recommendation,Hallasan mountain,0.850069165
+Meat,Experience,0.849855959
+Sea,Park,0.849435329
+Meat,Coffee,0.849434614
+Seaside,Summer,0.849311411
+Jeju Island,Hallasan mountain,0.849266231
+Nature,Emotion,0.849174857
+Meat,Woman diver,0.849069238
+Airport,Airplane,0.848939419
+Emotion,Branch,0.848933756
+Meal,Aewol,0.848880291
+Photo,Pension,0.848878801
+Jeju Island,House,0.848870516
+Pension,Side dish,0.848854899
+Travel,Dinner,0.848668098
+Experience,Visit,0.848549962
+Popular restaurant,Hot Pot,0.848534048
+Hot Pot,Autumn,0.848298132
+Meat,Summer,0.848199308
+Airport,Autumn,0.848171413
+Order,Autumn,0.847931981
+Course,Name,0.8477512
+Price,Resort,0.847501695
+Jeju city,Aewol,0.84738785
+Accomodation,Aewol,0.847275198
+Jeju Island,Airport,0.847196519
+Hallasan mountain,Airplane,0.847174287
+Hallasan mountain,Sky,0.847140074
+Sea,House,0.846961737
+Cutlassfish,Seogwipo,0.846859694
+Mood,Filming,0.846848488
+Dinner,Side dish,0.846821427
+Jeju city,Seaside,0.846721888
+Space,Emotion,0.846721292
+Museum,Jungmun tourism complex,0.846399665
+Photo,Braised cutlassfish,0.846226871
+Reservation,Sightseeing,0.846170902
+Meat,Tourism,0.846087694
+Scenery,Seongsan,0.846045554
+Village,Jeju city,0.845939934
+Tree,WaterFall,0.845898092
+Weather,Braised cutlassfish,0.845769107
+Food,Summer,0.845662653
+Photo,Introduction,0.8456496
+Morning,Airplane,0.845611095
+Coast,Hallasan mountain,0.845337987
+Meat,Space,0.84500891
+Popular restaurant,Grilled dish,0.844992816
+Meat,Mood,0.844961464
+Mood,Tourism,0.844949901
+Accomodation,Coast,0.844864726
+Tree,Possibility,0.844638109
+Order,Space,0.844516754
+Popular restaurant,Dinner,0.844408154
+Photo,Tourism,0.844332099
+Hotel,Accomodation,0.844225645
+Seongsan,Airplane,0.844210207
+Recommendation,Filming,0.844117045
+Scenery,Dinner,0.84402436
+Popular restaurant,Famous,0.843968928
+Sightseeing,Introduction,0.843937874
+Mood,Entrance,0.84389925
+Cutlassfish,Price,0.843813539
+Visit,Ready,0.843796134
+Village,Introduction,0.843720317
+Braised cutlassfish,Name,0.843634307
+Famous,Tourism,0.843599558
+Aewol,Sightseeing,0.843568027
+Jungmun tourism complex,Mood,0.843442976
+Photo,Autumn,0.843312263
+Course,Summer,0.843289435
+Airplane,Park,0.843241453
+Travel,Hotel,0.843215406
+Seogwipo,Hot Pot,0.842928767
+Hallasan mountain,WaterFall,0.842761099
+Cutlassfish,Emotion,0.842638016
+Seaside,Sky,0.842609763
+Cutlassfish,Braised cutlassfish,0.842574656
+People,Abalone,0.842568398
+Airplane,Grilled dish,0.842460632
+Recommendation,Sashimi restaurant,0.842428386
+Photo,Seongsan,0.842342138
+Price,Experience,0.842164636
+Seaside,Hot Pot,0.842154562
+Museum,House,0.842090428
+Popular restaurant,Ready,0.841970682
+Airplane,Entrance,0.841953814
+Meat,Aewol,0.841946542
+Thinking,Reservation,0.841825902
+Coast,Tourism,0.841707289
+Spot,Entrance,0.841339767
+Village,Tree,0.841305614
+Course,Coffee,0.841300368
+Emotion,Name,0.841201067
+Spot,Emotion,0.841136813
+Thinking,Emotion,0.841058075
+Spot,Autumn,0.841057777
+Wind,Spot,0.840973973
+Abalone,Sashimi restaurant,0.840752363
+Seogwipo,Visit,0.840612233
+Abalone,Ready,0.84058702
+Tree,Entrance,0.840464413
+Dinner,Famous,0.840134382
+Jeju Island,Restaurant,0.840100586
+Course,Meal,0.839953721
+Visit,Park,0.839946687
+Photo,Ilchulbong,0.83990705
+Order,Dinner,0.839692295
+Braised cutlassfish,Tourism,0.839665413
+Order,Family,0.839645207
+Restaurant,Hot Pot,0.839586318
+Tree,Resort,0.839430869
+Jeju city,Airplane,0.839144707
+Accomodation,Tree,0.839012861
+Braised cutlassfish,Ready,0.838781655
+Appearance,Weather,0.838745415
+Sea,Emotion,0.838665724
+Wind,Park,0.838663459
+Park,Entrance,0.838637352
+Popular restaurant,Resort,0.838580608
+Course,Aewol,0.838200331
+Recommendation,House,0.838088512
+Popular restaurant,Meal,0.837956846
+Airport,Sightseeing,0.837897182
+Jeju city,Tourism,0.837840557
+Meal,Seogwipo,0.837735653
+Cafe,Famous,0.837630868
+Emotion,WaterFall,0.837616503
+Price,Entrance,0.837384522
+Sashimi restaurant,Entrance,0.83735168
+Airport,Braised cutlassfish,0.837285399
+Course,Woman diver,0.837237
+Tree,Introduction,0.837179303
+Abalone,Recommendation,0.837173283
+Village,Space,0.836921096
+Course,Cutlassfish,0.836865485
+Park,Autumn,0.836847126
+Sky,Park,0.836555064
+Emotion,Summer,0.836538732
+Beach,Braised cutlassfish,0.836455107
+Sea,Entrance,0.836422324
+Course,Autumn,0.836393297
+Hallasan mountain,Braised cutlassfish,0.836262584
+Scenery,Park,0.836224318
+Dinner,Emotion,0.836203396
+Ilchulbong,Airplane,0.836120725
+Visit,Introduction,0.835952401
+Meat,People,0.835913122
+Appearance,Park,0.835803926
+Village,Seaside,0.835715234
+Space,Possibility,0.835422575
+Abalone,Hot Pot,0.835199833
+Meat,Spot,0.83519733
+Scenery,Sky,0.835157394
+Food,Jeju city,0.835107386
+Use,Resort,0.835030437
+Popular restaurant,Seogwipo,0.834949195
+Thinking,Braised cutlassfish,0.834936738
+Village,Sightseeing,0.834793925
+Meat,House,0.834535658
+Braised cutlassfish,Branch,0.834523559
+Road,Introduction,0.834497869
+Scenery,Space,0.834449649
+Scenery,Recommendation,0.834447861
+Thinking,Summer,0.834425628
+Coffee,Reservation,0.834293425
+Order,Meal,0.834273994
+Sea,Hallasan mountain,0.834212959
+Village,Mood,0.834176064
+Hotel,Pension,0.834151864
+House,Side dish,0.834094584
+Abalone,Park,0.833934069
+Spot,Hot Pot,0.83392626
+Coast,Famous,0.833889306
+Accomodation,Spot,0.833743036
+Recommendation,Autumn,0.833669603
+Experience,House,0.833466589
+Spot,Jeju city,0.833355546
+Abalone,Sightseeing,0.833332658
+Appearance,Visit,0.833221138
+Braised cutlassfish,Family,0.833001673
+Village,Emotion,0.832873881
+Seogwipo,Tree,0.832676172
+Abalone,Autumn,0.832661033
+Spot,Village,0.832379818
+Order,Seogwipo,0.831969857
+Visit,Autumn,0.831938863
+Jungmun tourism complex,Sightseeing,0.831848681
+Jeju Island,Summer,0.831842184
+Aewol,Filming,0.831647813
+Seogwipo,Airplane,0.831450999
+Sea,Autumn,0.831392944
+Road,Tree,0.831321597
+Jeju Island,Weather,0.831255913
+Photo,Jungmun tourism complex,0.831206918
+House,Space,0.830879271
+Space,Entrance,0.830738068
+Braised cutlassfish,Entrance,0.830730379
+Thinking,Airplane,0.83055836
+Weather,Hot Pot,0.830476046
+Visit,Emotion,0.830264091
+Pension,Airplane,0.830136955
+Course,Beach,0.829909682
+Hotel,Cutlassfish,0.829751432
+Meal,Hallasan mountain,0.829717636
+Course,WaterFall,0.829673886
+Scenery,Airplane,0.8295632
+Park,Ready,0.829562604
+Course,Accomodation,0.829549372
+Pension,Seaside,0.82952261
+Experience,Entrance,0.829492807
+Braised cutlassfish,Sky,0.829453349
+Recommendation,WaterFall,0.829387367
+Hotel,Hot Pot,0.829357922
+Cutlassfish,Sightseeing,0.829204977
+Appearance,Sightseeing,0.829133272
+Jeju Island,Grilled dish,0.828870475
+Photo,Lunch,0.82885474
+Hallasan mountain,Lunch,0.82877779
+Seogwipo,Entrance,0.82868439
+Seongsan,Spot,0.828665435
+Course,Food,0.828607023
+Scenery,Entrance,0.828463972
+Price,Park,0.828420341
+Order,Visit,0.828367054
+Wind,Emotion,0.828341246
+Location,Summer,0.828336775
+Spot,Visit,0.828242421
+Photo,Sea,0.827959239
+Travel,Airplane,0.827871919
+Seogwipo,Lunch,0.827791333
+Emotion,Woman diver,0.827623188
+Abalone,Grilled dish,0.827501535
+Seongsan,Wind,0.827468514
+Market,Branch,0.827358305
+Order,Village,0.827255487
+Course,Branch,0.827232003
+Dinner,Reservation,0.826964438
+Popular restaurant,WaterFall,0.826933503
+Seaside,House,0.826884866
+Reservation,Branch,0.826736927
+Recommendation,Space,0.826599538
+Photo,Famous,0.826595664
+Meal,Reservation,0.826589227
+Pension,Hot Pot,0.826379716
+Hot Pot,Summer,0.826377392
+Jeju city,Park,0.8262887
+Wind,Ilchulbong,0.826277435
+Mind,Visit,0.825915933
+Jeju city,Name,0.825791597
+Jeju Island,Reservation,0.825781405
+Hotel,Meal,0.825694084
+Cafe,Menu,0.82562989
+Recommendation,Experience,0.825608552
+Airplane,Summer,0.825506091
+Seaside,Autumn,0.825366616
+Travel,Seongsan,0.825347185
+Appearance,Emotion,0.825343192
+Famous,Name,0.825273275
+Jeju Island,Order,0.825261593
+Pension,Emotion,0.825128019
+House,Tourism,0.825126648
+Time,Airplane,0.825101852
+Morning,Accomodation,0.825041771
+Popular restaurant,Accomodation,0.825024664
+Seaside,Dinner,0.824868917
+Restaurant,Reservation,0.824809849
+Hallasan mountain,House,0.82433182
+Popular restaurant,Visit,0.824324489
+Airplane,Tourism,0.824306965
+Sky,Woman diver,0.824110448
+Menu,Pension,0.824094951
+Side dish,Autumn,0.824010789
+Tree,Ready,0.824006855
+Airplane,Resort,0.823997498
+Pension,Family,0.823996902
+Emotion,Tourism,0.823951602
+Coffee,Ready,0.823748052
+Jeju Island,Jeju city,0.823452413
+Seaside,Coffee,0.823103905
+Pension,Sashimi restaurant,0.823077142
+Pension,Filming,0.822954118
+Tree,Sashimi restaurant,0.822784245
+Wind,Airplane,0.822627783
+Experience,Hot Pot,0.822527587
+Meal,Road,0.822440267
+Space,Tourism,0.822398067
+Space,Visit,0.822350442
+Spot,Airplane,0.822333574
+Accomodation,Famous,0.822246552
+Morning,Wind,0.822147787
+Coast,Jeju city,0.821860373
+Cutlassfish,WaterFall,0.821818471
+Airport,Hallasan mountain,0.821814239
+Experience,Park,0.821781814
+Abalone,Wind,0.821488917
+Jeju Island,Side dish,0.82138598
+Meat,Thinking,0.82133317
+Morning,WaterFall,0.821332455
+Photo,Mood,0.821285903
+Road,Hallasan mountain,0.821229339
+Wind,Sightseeing,0.821202278
+Seogwipo,Side dish,0.821141303
+Sky,Summer,0.820764124
+Cutlassfish,Seaside,0.820700586
+Restaurant,Braised cutlassfish,0.820547402
+Travel,Weather,0.820437133
+Recommendation,Grilled dish,0.820312738
+Course,Tourism,0.820295274
+Visit,WaterFall,0.820278347
+Ready,Reservation,0.820243835
+Seaside,Mood,0.820129156
+Scenery,Braised cutlassfish,0.820087612
+Braised cutlassfish,House,0.819930971
+Pension,House,0.819811523
+Spot,Road,0.819599926
+Appearance,Hallasan mountain,0.81951648
+Sea,Meat,0.819424152
+Dinner,Aewol,0.819402158
+Course,Price,0.819384933
+Wind,Dinner,0.819380045
+Restaurant,Recommendation,0.819291413
+Course,Famous,0.819251537
+Morning,Ready,0.81921643
+Course,Village,0.819155991
+Abalone,House,0.818948746
+Meat,Autumn,0.818899214
+Jeju Island,Sky,0.818806052
+Coffee,Sightseeing,0.81877768
+Park,Aewol,0.818715036
+Famous,Reservation,0.818673551
+Jeju Island,Popular restaurant,0.818627119
+Order,Name,0.818598688
+Tree,Hot Pot,0.818595171
+Hallasan mountain,Park,0.818589389
+Weather,Park,0.818497658
+Order,Tourism,0.818282366
+Scenery,Tree,0.818243146
+Jeju Island,Autumn,0.81823653
+Tree,Visit,0.818231881
+Appearance,Tourism,0.818223238
+Weather,Seaside,0.818208694
+Scenery,Emotion,0.818160713
+Cafe,Road,0.81805414
+Start,Emotion,0.81803292
+Road,Braised cutlassfish,0.81798774
+Price,Braised cutlassfish,0.817761421
+Order,Lunch,0.817742467
+Spot,Lunch,0.817676544
+Seaside,Entrance,0.817653
+Course,Ready,0.817450941
+Meal,Side dish,0.817284942
+Popular restaurant,Possibility,0.817060113
+Story,Branch,0.817045927
+Order,Scenery,0.816700637
+Meat,Ready,0.816530347
+Tree,Space,0.81649971
+Meat,Branch,0.816452205
+Order,Mood,0.816273034
+Nature,Space,0.81614536
+Thinking,Sky,0.816142201
+Meat,Meal,0.816098869
+Spot,Recommendation,0.816087842
+Restaurant,Aewol,0.816017807
+Order,Weather,0.815923572
+Mood,Famous,0.815910697
+Space,Side dish,0.815835357
+Popular restaurant,Sea,0.815680504
+Jeju city,Entrance,0.815549195
+Recommendation,Lunch,0.815514565
+Braised cutlassfish,Woman diver,0.815503001
+Popular restaurant,Jungmun tourism complex,0.815485775
+Coast,Spot,0.815481722
+House,Park,0.815431476
+Price,Possibility,0.815428793
+Course,Family,0.815394938
+Photo,Hot Pot,0.815339863
+Arrival,Dinner,0.81526351
+Dinner,Ready,0.81525135
+Travel,Sightseeing,0.815128982
+Start,Park,0.815091133
+Seaside,Aewol,0.815087736
+Village,Side dish,0.814947724
+Recommendation,Ready,0.814859748
+Reservation,WaterFall,0.814712644
+Jeju Island,Emotion,0.814684987
+Order,Aewol,0.81467545
+Famous,Sightseeing,0.814636767
+Tourism,Side dish,0.814630151
+Order,Accomodation,0.814627528
+Meal,Emotion,0.814448237
+Meat,Sky,0.814133883
+Abalone,Name,0.814022362
+Appearance,Jungmun tourism complex,0.814011812
+Cafe,Tourism,0.813985646
+Tangerine,Coffee,0.81395787
+Photo,WaterFall,0.813766599
+Time,Coffee,0.813620925
+Appearance,Nature,0.81355077
+Sky,Sightseeing,0.813524544
+Meat,Cutlassfish,0.813466132
+Pension,Dinner,0.813426077
+Price,Jeju city,0.813406348
+Course,Thinking,0.813359976
+Entrance,Introduction,0.813049197
+Airplane,Visit,0.812969685
+Woman diver,Grilled dish,0.812901735
+Price,Emotion,0.81288904
+Space,Name,0.812865734
+Popular restaurant,Hallasan mountain,0.812860727
+Experience,Pension,0.812783122
+Name,Introduction,0.81264317
+Tangerine,Emotion,0.812617362
+Jungmun tourism complex,Experience,0.812588811
+Thinking,Order,0.812518537
+Spot,Side dish,0.8124789
+Cafe,Filming,0.812425613
+Wind,Braised cutlassfish,0.812369823
+Travel,Arrival,0.812258422
+People,Emotion,0.812155128
+Popular restaurant,Filming,0.812022567
+Black pork,Grilled dish,0.812018871
+Scenery,Seogwipo,0.811854839
+Thinking,Jeju city,0.811707437
+Cafe,Hotel,0.81163156
+Food,Famous,0.811277032
+Order,Jungmun tourism complex,0.81125319
+Abalone,Weather,0.811205029
+Order,Story,0.8109411
+Photo,Seaside,0.810905278
+Black pork,Braised cutlassfish,0.81087321
+Sea,Weather,0.810706854
+Reservation,Name,0.81063056
+Cafe,Name,0.810591102
+Popular restaurant,Scenery,0.810467362
+Photo,Emotion,0.810454488
+Recommendation,Summer,0.810452819
+Road,Lunch,0.810449183
+Sea,Tourism,0.810379148
+Jeju city,Famous,0.81036216
+Sightseeing,Name,0.810306907
+Recommendation,Family,0.810259223
+Price,Reservation,0.81025815
+Meal,Introduction,0.810109198
+Emotion,Resort,0.810022116
+Coffee,Resort,0.809844375
+Hallasan mountain,Aewol,0.809705138
+Jeju Island,Pension,0.809702039
+Seogwipo,Ilchulbong,0.809390426
+Photo,Filming,0.809265673
+Photo,Airport,0.809171557
+Experience,Space,0.80913341
+Time,Lunch,0.809129775
+Space,Story,0.809084535
+Sightseeing,Entrance,0.809026122
+Family,Tree,0.808940828
+Tree,Dinner,0.808900893
+Hotel,Famous,0.808755517
+Jeju Island,Meat,0.808539152
+Hallasan mountain,Hot Pot,0.808508277
+Nature,Park,0.808486879
+Seogwipo,Pension,0.808137834
+Mood,Side dish,0.808122098
+Food,Seaside,0.808049202
+Photo,Course,0.80791837
+Jeju Island,Famous,0.807913303
+Meal,Tree,0.807889283
+Meal,Spot,0.807792366
+Location,Jeju city,0.807692826
+Cutlassfish,Coffee,0.807658017
+Course,Menu,0.807641268
+Tangerine,Side dish,0.807615578
+Spot,Tourism,0.807526588
+Meal,Ready,0.807502449
+Space,Sightseeing,0.807406843
+Nature,Seaside,0.80733633
+Course,Restaurant,0.807111561
+Braised cutlassfish,Resort,0.80690372
+Travel,Ready,0.806843579
+Sea,Visit,0.806836843
+Dinner,Tourism,0.806524873
+Travel,Braised cutlassfish,0.806485951
+Coast,Name,0.806370854
+Pension,Space,0.806364536
+Sashimi restaurant,Woman diver,0.806310177
+Braised cutlassfish,Space,0.80607748
+Meat,Price,0.805897593
+Pension,Park,0.805892289
+Meat,Family,0.805862367
+Hotel,Reservation,0.805830777
+Meal,House,0.805829346
+Sky,Dinner,0.805820048
+Travel,Autumn,0.805763543
+Aewol,Reservation,0.805653095
+Cafe,Tree,0.805553675
+Coast,Village,0.805463076
+Popular restaurant,Appearance,0.805314362
+Appearance,Autumn,0.805260181
+Recommendation,Sky,0.805185795
+Cafe,Restaurant,0.805094004
+Braised cutlassfish,Introduction,0.805033386
+Family,Sightseeing,0.804968357
+Abalone,Experience,0.80464375
+Thinking,Grilled dish,0.80439198
+Braised cutlassfish,Famous,0.804323375
+Coffee,Branch,0.80431658
+Visit,Tourism,0.804305971
+Cutlassfish,Hot Pot,0.804271519
+Meat,Dinner,0.804207325
+Arrival,Sightseeing,0.804149628
+Price,Seogwipo,0.804140389
+Oreum,Scenery,0.80412662
+Family,Emotion,0.804042697
+Name,Side dish,0.803961217
+Abalone,Jeju city,0.803922236
+Village,Famous,0.803844929
+Use,Side dish,0.803588033
+Abalone,Entrance,0.803541124
+Course,Spot,0.803383768
+Sea,Airplane,0.803378165
+Tree,Lunch,0.803377807
+Spot,Dinner,0.803356946
+Recommendation,Entrance,0.803248823
+Jeju Island,Abalone,0.803006291
+Weather,Side dish,0.802975953
+Mood,Emotion,0.802957356
+Black pork,Course,0.80287528
+Seongsan,Seogwipo,0.802796006
+Spot,Sashimi restaurant,0.802787423
+Meat,Introduction,0.80273819
+Side dish,Lunch,0.802643239
+Jeju city,Family,0.802625239
+Spot,Price,0.802561879
+Experience,Tourism,0.802481174
+Ready,Resort,0.802139878
+Jeju Island,Entrance,0.802035987
+Hallasan mountain,Tree,0.801936567
+Meal,Experience,0.801889241
+Experience,Lunch,0.801787674
+Ready,Tourism,0.801724195
+Thinking,Side dish,0.80157876
+Scenery,Tourism,0.801576793
+Coast,Sightseeing,0.801569283
+Accomodation,Side dish,0.801559091
+Tree,Name,0.801551998
+Order,Nature,0.801455498
+Popular restaurant,Autumn,0.801446438
+Jeju Island,Seogwipo,0.801383555
+Jeju Island,WaterFall,0.801263988
+Course,Weather,0.801090479
+Sea,Scenery,0.800818503
+Morning,Visit,0.800755501
+Meal,Coast,0.800685644
+Tangerine,Branch,0.800481319
+Course,Lunch,0.800320923
+House,Autumn,0.800316393
+Jeju Island,Wind,0.800265789
+Experience,Dinner,0.80023551
+Jeju Island,Scenery,0.800173163
+Course,Sky,0.800099254
+Famous,Hot Pot,0.800098181
+Thinking,Abalone,0.800065458
+Photo,Order,0.799982727
+Meat,WaterFall,0.799913466
+Sea,Summer,0.799900174
+Seongsan,Braised cutlassfish,0.799838722
+Weather,House,0.799587548
+Jeju Island,Thinking,0.799560308
+Morning,Lunch,0.799541771
+Appearance,Entrance,0.799513876
+Family,Sashimi restaurant,0.799505413
+Space,Mood,0.799361765
+Mood,Sightseeing,0.799281836
+Hallasan mountain,Emotion,0.799086511
+Coffee,Lunch,0.799076378
+Arrival,Autumn,0.799066126
+Spot,House,0.798972189
+Popular restaurant,Sky,0.798967063
+Jeju Island,Lunch,0.798886895
+Hotel,Experience,0.798849523
+Aewol,Side dish,0.798837125
+Meat,Nature,0.798815608
+Emotion,Possibility,0.798744559
+Braised cutlassfish,Ilchulbong,0.798709333
+Time,Side dish,0.798671424
+Food,Woman diver,0.79862541
+Accomodation,Experience,0.798620999
+Airplane,Aewol,0.798583806
+Thinking,Seaside,0.798480511
+Scenery,Road,0.798456192
+Course,Entrance,0.798162222
+Airport,Recommendation,0.798059702
+Braised cutlassfish,Mood,0.79800421
+Seogwipo,Braised cutlassfish,0.797866464
+Cafe,Meal,0.797825873
+Course,Hallasan mountain,0.797786176
+Travel,Ilchulbong,0.797758758
+Pension,Lunch,0.797664285
+Hallasan mountain,Tourism,0.797463953
+Abalone,Nature,0.797440886
+Morning,Recommendation,0.79739058
+Accomodation,Reservation,0.797378838
+Sea,Braised cutlassfish,0.797314167
+Meal,Famous,0.797297299
+Order,Introduction,0.79721117
+Oreum,WaterFall,0.796986878
+Airport,Scenery,0.796915889
+Experience,Autumn,0.796853781
+Appearance,Order,0.79676944
+Side dish,Story,0.796764433
+Morning,Tourism,0.796584427
+Tree,Autumn,0.796538413
+Accomodation,Wind,0.796428025
+House,WaterFall,0.796220481
+Jungmun tourism complex,Space,0.796197534
+Wind,WaterFall,0.796195805
+Sea,Nature,0.796161115
+Airplane,Famous,0.796088994
+Wind,Recommendation,0.796039224
+Menu,Aewol,0.796014965
+Recommendation,Coffee,0.795950115
+House,Tree,0.795932949
+People,Woman diver,0.795847595
+Morning,Park,0.795790493
+Photo,Side dish,0.795723617
+Meat,Appearance,0.795663059
+Coffee,Possibility,0.795644999
+Pension,Entrance,0.795524001
+Appearance,Airplane,0.795371532
+Time,WaterFall,0.795184195
+House,Ready,0.795110643
+Wind,Visit,0.794876158
+Side dish,Summer,0.794854224
+Scenery,Ready,0.794818282
+Coffee,Autumn,0.794816673
+Nature,Branch,0.794806421
+Road,Recommendation,0.794796646
+Oreum,Ilchulbong,0.794659555
+Wind,Seaside,0.794560254
+Morning,Sky,0.794547379
+Jeju Island,Travel,0.794526935
+Time,Order,0.794503629
+Tree,Coffee,0.794483364
+Course,Resort,0.794452488
+Beach,Autumn,0.794348776
+Tree,Famous,0.794340789
+Family,Famous,0.794312835
+Food,Name,0.794205844
+Abalone,Tree,0.793992639
+House,Sky,0.793911397
+Abalone,Tourism,0.793732941
+Jungmun tourism complex,WaterFall,0.793718636
+Photo,Entrance,0.793696702
+Cafe,Braised cutlassfish,0.793626726
+Travel,Seogwipo,0.793624103
+Thinking,Weather,0.793568611
+Price,Airplane,0.793524384
+Coffee,Dinner,0.793523312
+Meat,Story,0.793467045
+Meal,Tourism,0.793417633
+Course,Airport,0.793288708
+Coast,Braised cutlassfish,0.793243527
+Jeju Island,Sightseeing,0.793115318
+Meat,Food,0.793063521
+Travel,Course,0.792928338
+Food,Braised cutlassfish,0.792865515
+Nature,Entrance,0.792859197
+Coffee,Sashimi restaurant,0.792736232
+Thinking,Hot Pot,0.792708218
+Seaside,WaterFall,0.792665184
+Course,Mood,0.792591751
+Cutlassfish,Branch,0.792569697
+Jungmun tourism complex,Hallasan mountain,0.792471051
+Dinner,Filming,0.79243058
+Popular restaurant,Summer,0.792342067
+Photo,Park,0.792288363
+Visit,Side dish,0.792256951
+Seaside,Space,0.792241514
+Photo,Road,0.792120039
+Aewol,Emotion,0.792114496
+Popular restaurant,Menu,0.792088628
+Course,House,0.791999638
+Meal,Wind,0.791957617
+Seongsan,Sky,0.791834533
+Jeju Island,Jungmun tourism complex,0.791809857
+Start,Weather,0.791799188
+Scenery,Arrival,0.791635573
+Experience,Sashimi restaurant,0.791630149
+Jeju Island,Sashimi restaurant,0.791588008
+Travel,Reservation,0.791585565
+Meal,Jungmun tourism complex,0.79155463
+Appearance,Story,0.791072726
+Reservation,Woman diver,0.791023314
+Hotel,WaterFall,0.791011751
+Scenery,Experience,0.79079932
+House,Aewol,0.790771127
+Order,Sky,0.790625393
+Family,Possibility,0.790359557
+Order,Summer,0.790221989
+Nature,House,0.790183961
+Jeju Island,Sea,0.790109575
+Park,Reservation,0.790105939
+Jungmun tourism complex,Pension,0.790021181
+Photo,Tree,0.790019214
